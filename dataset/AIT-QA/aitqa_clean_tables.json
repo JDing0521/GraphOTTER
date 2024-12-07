@@ -1,0 +1,7260 @@
+[
+  {
+    "tab-0": [
+      [
+        "Year",
+        "Gallons Consumed (in millions)",
+        "Fuel Expense       (in millions)",
+        "Average Price Per Gallon",
+        "Percentage of Total Operating Expense",
+        "Available Seat Miles per Fuel Gallon"
+      ],
+      [
+        "2018",
+        "4,137",
+        "$9,307",
+        "$2.25",
+        "24%",
+        "67"
+      ],
+      [
+        "2017",
+        "3,978",
+        "$6,913",
+        "$1.74",
+        "20%",
+        "66"
+      ],
+      [
+        "2016",
+        "3,904",
+        "$5,813",
+        "$1.49",
+        "18%",
+        "65"
+      ]
+    ]
+  },
+  {
+    "tab-1": [
+      [
+        "",
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2018",
+        "2017 (a)",
+        "2016 (a)",
+        "2015",
+        "2014"
+      ],
+      [
+        "Consolidated (b)",
+        "Passengers (thousands) (c)",
+        "158,330",
+        "148,067",
+        "143,177",
+        "140,369",
+        "138,029"
+      ],
+      [
+        "Consolidated (b)",
+        "Revenue passenger miles (\"RPMs\") (millions) (d)",
+        "230,155",
+        "216,261",
+        "210,309",
+        "208,611",
+        "205,559"
+      ],
+      [
+        "Consolidated (b)",
+        "Available seat miles (\"ASMs\") (millions) (e)",
+        "275,262",
+        "262,386",
+        "253,590",
+        "250,003",
+        "246,021"
+      ],
+      [
+        "Consolidated (b)",
+        "Cargo revenue ton miles (millions) (f)",
+        "3,425",
+        "3,316",
+        "2,805",
+        "2,614",
+        "2,487"
+      ],
+      [
+        "Consolidated (b)",
+        "Passenger load factor (g)",
+        "83.6%",
+        "82.4%",
+        "82.9%",
+        "83.4%",
+        "83.6%"
+      ],
+      [
+        "Consolidated (b)",
+        "Passenger revenue per available seat mile (\"PRASM\") (cents)",
+        "13.70",
+        "13.13",
+        "13.18",
+        "13.11",
+        "13.72"
+      ],
+      [
+        "Consolidated (b)",
+        "Total revenue per available seat mile (\"TRASM\") (cents)",
+        "15.00",
+        "14.40",
+        "14.42",
+        "15.15",
+        "15.81"
+      ],
+      [
+        "Consolidated (b)",
+        "Average yield per revenue passenger mile (\"Yield\") (cents) (h)",
+        "16.38",
+        "15.93",
+        "15.90",
+        "15.72",
+        "16.42"
+      ],
+      [
+        "Consolidated (b)",
+        "Cost per available seat mile (\"CASM\") (cents)",
+        "13.81",
+        "13.00",
+        "12.70",
+        "13.08",
+        "14.85"
+      ],
+      [
+        "Consolidated (b)",
+        "Average price per gallon of fuel, including fuel taxes",
+        "$2.25",
+        "$1.74",
+        "$1.49",
+        "$1.94",
+        "$2.99"
+      ],
+      [
+        "Consolidated (b)",
+        "Fuel gallons consumed (millions)",
+        "4,137",
+        "3,978",
+        "3,904",
+        "3,886",
+        "3,905"
+      ],
+      [
+        "Consolidated (b)",
+        "Average stage length (miles) (i)",
+        "1,446",
+        "1,460",
+        "1,473",
+        "1,487",
+        "1,480"
+      ],
+      [
+        "Consolidated (b)",
+        "Average daily utilization of each mainline aircraft (hours:minutes) (j)",
+        "10:45",
+        "10:27",
+        "10:06",
+        "10:24",
+        "10:26"
+      ]
+    ]
+  },
+  {
+    "tab-4": [
+      [
+        "",
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2018",
+        "2017 (a)",
+        "2016 (a)"
+      ],
+      [
+        "Operating revenue:",
+        "Passenger revenue",
+        "$37,706",
+        "$34,460",
+        "$33,429"
+      ],
+      [
+        "Operating revenue:",
+        "Cargo",
+        "1,237",
+        "1,114",
+        "934"
+      ],
+      [
+        "Operating revenue:",
+        "Other operating revenue",
+        "2,360",
+        "2,210",
+        "2,195"
+      ],
+      [
+        "Operating revenue:",
+        "Total operating revenue",
+        "41,303",
+        "37,784",
+        "36,558"
+      ],
+      [
+        "Operating expense:",
+        "Salaries and related costs",
+        "11,458",
+        "10,941",
+        "10,176"
+      ],
+      [
+        "Operating expense:",
+        "Aircraft fuel",
+        "9,307",
+        "6,913",
+        "5,813"
+      ],
+      [
+        "Operating expense:",
+        "Regional capacity purchase",
+        "2,601",
+        "2,232",
+        "2,197"
+      ],
+      [
+        "Operating expense:",
+        "Landing fees and other rent",
+        "2,359",
+        "2,240",
+        "2,165"
+      ],
+      [
+        "Operating expense:",
+        "Depreciation and amortization",
+        "2,240",
+        "2,149",
+        "1,977"
+      ],
+      [
+        "Operating expense:",
+        "Aircraft maintenance materials and outside repairs",
+        "1,767",
+        "1,856",
+        "1,749"
+      ],
+      [
+        "Operating expense:",
+        "Distribution expenses",
+        "1,558",
+        "1,435",
+        "1,395"
+      ],
+      [
+        "Operating expense:",
+        "Aircraft rent",
+        "433",
+        "621",
+        "680"
+      ],
+      [
+        "Operating expense:",
+        "Special charges",
+        "487",
+        "176",
+        "745"
+      ],
+      [
+        "Operating expense:",
+        "Other operating expenses",
+        "5,801",
+        "5,550",
+        "5,317"
+      ],
+      [
+        "Operating expense:",
+        "Total operating expense",
+        "38,011",
+        "34,113",
+        "32,214"
+      ],
+      [
+        "Operating expense:",
+        "Operating income",
+        "3,292",
+        "3,671",
+        "4,344"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Interest expense",
+        "(729)",
+        "(671)",
+        "(674)"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Interest capitalized",
+        "70",
+        "84",
+        "72"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Interest income",
+        "101",
+        "57",
+        "42"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Miscellaneous, net",
+        "(76)",
+        "(101)",
+        "(11)"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Total nonoperating expense, net",
+        "(634)",
+        "(631)",
+        "(571)"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Income before income taxes",
+        "2,658",
+        "3,040",
+        "3,773"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Income tax expense",
+        "529",
+        "896",
+        "1,539"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Net income",
+        "$2,129",
+        "$2,144",
+        "$2,234"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Earnings per share, basic",
+        "$7.73",
+        "$7.08",
+        "$6.77"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Earnings per share, diluted",
+        "$7.70",
+        "$7.06",
+        "$6.76"
+      ]
+    ]
+  },
+  {
+    "tab-7": [
+      [
+        "",
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2018",
+        "2017 (a)",
+        "2016 (a)"
+      ],
+      [
+        "Operating revenue:",
+        "Passenger revenue",
+        "$37,706",
+        "$34,460",
+        "$33,429"
+      ],
+      [
+        "Operating revenue:",
+        "Cargo",
+        "1,237",
+        "1,114",
+        "934"
+      ],
+      [
+        "Operating revenue:",
+        "Other operating revenue",
+        "2,360",
+        "2,210",
+        "2,195"
+      ],
+      [
+        "Operating revenue:",
+        "Total operating revenue",
+        "41,303",
+        "37,784",
+        "36,558"
+      ],
+      [
+        "Operating expense:",
+        "Salaries and related costs",
+        "11,458",
+        "10,941",
+        "10,176"
+      ],
+      [
+        "Operating expense:",
+        "Aircraft fuel",
+        "9,307",
+        "6,913",
+        "5,813"
+      ],
+      [
+        "Operating expense:",
+        "Regional capacity purchase",
+        "2,601",
+        "2,232",
+        "2,197"
+      ],
+      [
+        "Operating expense:",
+        "Landing fees and other rent",
+        "2,359",
+        "2,240",
+        "2,165"
+      ],
+      [
+        "Operating expense:",
+        "Depreciation and amortization",
+        "2,240",
+        "2,149",
+        "1,977"
+      ],
+      [
+        "Operating expense:",
+        "Aircraft maintenance materials and outside repairs",
+        "1,767",
+        "1,856",
+        "1,749"
+      ],
+      [
+        "Operating expense:",
+        "Distribution expenses",
+        "1,558",
+        "1,435",
+        "1,395"
+      ],
+      [
+        "Operating expense:",
+        "Aircraft rent",
+        "433",
+        "621",
+        "680"
+      ],
+      [
+        "Operating expense:",
+        "Special charges",
+        "487",
+        "176",
+        "745"
+      ],
+      [
+        "Operating expense:",
+        "Other operating expenses",
+        "5,799",
+        "5,548",
+        "5,315"
+      ],
+      [
+        "Operating expense:",
+        "Total operating expense",
+        "38,009",
+        "34,111",
+        "32,212"
+      ],
+      [
+        "Operating expense:",
+        "Operating income",
+        "3,294",
+        "3,673",
+        "4,346"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Interest expense",
+        "(729)",
+        "(671)",
+        "(674)"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Interest capitalized",
+        "70",
+        "84",
+        "72"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Interest income",
+        "101",
+        "57",
+        "42"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Miscellaneous, net",
+        "(76)",
+        "(101)",
+        "(11)"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Total nonoperating expense, net",
+        "(634)",
+        "(631)",
+        "(571)"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Income before income taxes",
+        "2,660",
+        "3,042",
+        "3,775"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Income tax expense",
+        "529",
+        "879",
+        "1,541"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Net income",
+        "$2,131",
+        "$2,163",
+        "$2,234"
+      ]
+    ]
+  },
+  {
+    "tab-9": [
+      [
+        "",
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "Compensation cost:",
+        "RSUs",
+        "$98",
+        "$63",
+        "$58"
+      ],
+      [
+        "Compensation cost:",
+        "Restricted stock",
+        "2",
+        "8",
+        "11"
+      ],
+      [
+        "Compensation cost:",
+        "Stock options",
+        "1",
+        "2",
+        "1"
+      ],
+      [
+        "Compensation cost:",
+        "Total",
+        "$101",
+        "$73",
+        "$70"
+      ]
+    ]
+  },
+  {
+    "tab-12": [
+      [
+        "",
+        "",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Operating revenues",
+        "$22,428",
+        "$21,965",
+        "$21,146",
+        "$20,289",
+        "$19,820"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Operating expenses",
+        "19,471",
+        "18,759",
+        "17,739",
+        "16,767",
+        "15,821"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Operating income",
+        "2,957",
+        "3,206",
+        "3,407",
+        "3,522",
+        "3,999"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Other expenses (income) net",
+        "\u2014",
+        "42",
+        "142",
+        "72",
+        "520"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Income before taxes",
+        "2,957",
+        "3,164",
+        "3,265",
+        "3,450",
+        "3,479"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Provision (benefit) for income taxes",
+        "657",
+        "699",
+        "(92)",
+        "1,267",
+        "1,298"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Net income",
+        "$2,300",
+        "$2,465",
+        "$3,357",
+        "$2,183",
+        "$2,181"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Net income per share, basic",
+        "$4.28",
+        "$4.30",
+        "$5.58",
+        "$3.48",
+        "$3.30"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Net income per share, diluted",
+        "$4.27",
+        "$4.29",
+        "$5.57",
+        "$3.45",
+        "$3.27"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Cash dividends per common share",
+        "$0.700",
+        "$0.605",
+        "$0.475",
+        "$0.375",
+        "$0.285"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Total assets at period-end",
+        "$25,895",
+        "$26,243",
+        "$25,110",
+        "$23,286",
+        "$21,312"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Long-term obligations at period-end",
+        "$1,846",
+        "$2,771",
+        "$3,320",
+        "$2,821",
+        "$2,541"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Stockholders\u2019 equity at period-end",
+        "$9,832",
+        "$9,853",
+        "$9,641",
+        "$7,784",
+        "$7,358"
+      ],
+      [
+        "Operating Data:",
+        "Revenue passengers carried (000s)",
+        "134,056",
+        "134,890",
+        "130,256",
+        "124,720",
+        "118,171"
+      ],
+      [
+        "Operating Data:",
+        "Enplaned passengers (000s)",
+        "162,681",
+        "163,606",
+        "157,677",
+        "151,740",
+        "144,575"
+      ],
+      [
+        "Operating Data:",
+        "Revenue passenger miles (RPMs) (in millions) (a)",
+        "131,345",
+        "133,322",
+        "129,041",
+        "124,798",
+        "117,500"
+      ],
+      [
+        "Operating Data:",
+        "Available seat miles (ASMs) (in millions) (b)",
+        "157,254",
+        "159,795",
+        "153,811",
+        "148,522",
+        "140,501"
+      ],
+      [
+        "Operating Data:",
+        "Load factor (c)",
+        "83.5%",
+        "83.4%",
+        "83.9%",
+        "84.0%",
+        "83.6%"
+      ],
+      [
+        "Operating Data:",
+        "Average length of passenger haul (miles)",
+        "980",
+        "988",
+        "991",
+        "1,001",
+        "994"
+      ],
+      [
+        "Operating Data:",
+        "Average aircraft stage length (miles)",
+        "748",
+        "757",
+        "754",
+        "760",
+        "750"
+      ],
+      [
+        "Operating Data:",
+        "Trips flown",
+        "1,367,727",
+        "1,375,030",
+        "1,347,893",
+        "1,311,149",
+        "1,267,358"
+      ],
+      [
+        "Operating Data:",
+        "Seats flown (000s) (d)",
+        "206,390",
+        "207,223",
+        "200,879",
+        "193,168",
+        "184,955"
+      ],
+      [
+        "Operating Data:",
+        "Seats per trip (e)",
+        "150.9",
+        "150.7",
+        "149.0",
+        "147.3",
+        "145.9"
+      ],
+      [
+        "Operating Data:",
+        "Average passenger fare",
+        "$154.98",
+        "$151.64",
+        "$151.73",
+        "$152.89",
+        "$154.85"
+      ],
+      [
+        "Operating Data:",
+        "Passenger revenue yield per RPM (cents) (f)",
+        "15.82",
+        "15.34",
+        "15.32",
+        "15.28",
+        "15.57"
+      ],
+      [
+        "Operating Data:",
+        "Operating revenues per ASM (cents) (g)(j)",
+        "14.26",
+        "13.75",
+        "13.75",
+        "13.66",
+        "13.98"
+      ],
+      [
+        "Operating Data:",
+        "Passenger revenue per ASM (cents) (h)",
+        "13.21",
+        "12.80",
+        "12.85",
+        "12.84",
+        "13.02"
+      ],
+      [
+        "Operating Data:",
+        "Operating expenses per ASM (cents) (i)",
+        "12.38",
+        "11.74",
+        "11.53",
+        "11.29",
+        "11.26"
+      ],
+      [
+        "Operating Data:",
+        "Operating expenses per ASM, excluding fuel (cents)",
+        "9.62",
+        "8.85",
+        "8.88",
+        "8.73",
+        "8.60"
+      ],
+      [
+        "Operating Data:",
+        "Operating expenses per ASM, excluding fuel and profitsharing (cents)",
+        "9.19",
+        "8.51",
+        "8.53",
+        "8.34",
+        "8.16"
+      ],
+      [
+        "Operating Data:",
+        "Fuel costs per gallon, including fuel tax",
+        "$2.09",
+        "$2.20",
+        "$1.99",
+        "$1.90",
+        "$1.96"
+      ],
+      [
+        "Operating Data:",
+        "Fuel costs per gallon, including fuel tax, economic",
+        "$2.09",
+        "$2.20",
+        "$2.06",
+        "$2.00",
+        "$2.13"
+      ],
+      [
+        "Operating Data:",
+        "Fuel consumed, in gallons (millions)",
+        "2,077",
+        "2,094",
+        "2,045",
+        "1,996",
+        "1,901"
+      ],
+      [
+        "Operating Data:",
+        "Active fulltime equivalent Employees",
+        "60,767",
+        "58,803",
+        "56,110",
+        "53,536",
+        "49,583"
+      ],
+      [
+        "Operating Data:",
+        "Aircraft at end of period",
+        "747",
+        "750",
+        "706",
+        "723",
+        "704"
+      ]
+    ]
+  },
+  {
+    "tab-14": [
+      [
+        "",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Per ASM",
+        "Percent"
+      ],
+      [
+        "",
+        "2019",
+        "2018",
+        "change",
+        "change"
+      ],
+      [
+        "Salaries, wages, and benefits",
+        "5.27\u00a2",
+        "4.79\u00a2",
+        "0.48\u00a2",
+        "10.0 %"
+      ],
+      [
+        "Fuel and oil",
+        "2.76",
+        "2.89",
+        "(0.13)",
+        "(4.5)"
+      ],
+      [
+        "Maintenance materials and repairs",
+        "0.78",
+        "0.69",
+        "0.09",
+        "13.0"
+      ],
+      [
+        "Landing fees and airport rentals",
+        "0.87",
+        "0.83",
+        "0.04",
+        "4.8"
+      ],
+      [
+        "Depreciation and amortization",
+        "0.78",
+        "0.75",
+        "0.03",
+        "4.0"
+      ],
+      [
+        "Other operating expenses",
+        "1.92",
+        "1.79",
+        "0.13",
+        "7.3"
+      ],
+      [
+        "Total",
+        "12.38\u00a2",
+        "11.74\u00a2",
+        "0.64\u00a2",
+        "5.5 %"
+      ]
+    ]
+  },
+  {
+    "tab-15": [
+      [
+        "Employee Group",
+        "Approximate Number of Employees",
+        "Representatives",
+        "Amendable Date"
+      ],
+      [
+        "Southwest Flight Attendants",
+        "16,000",
+        "Transportation Workers of America, AFL-CIO, Local 556 (\"TWU 556\")",
+        "November 2018"
+      ],
+      [
+        "Southwest Customer Service Agents, Customer Representatives, and Source of Support Representatives",
+        "7,200",
+        "International Association of Machinists and Aerospace Workers, AFL-CIO (\"IAM 142\")",
+        "December 2018"
+      ],
+      [
+        "Southwest Dispatchers",
+        "400",
+        "Transportation Workers of America, AFL-CIO, Local 550 (\"TWU 550\")",
+        "June 2019"
+      ],
+      [
+        "Southwest Flight Crew Training Instructors",
+        "130",
+        "Transportation Workers of America, AFL-CIO, Local 557 (\"TWU 557\")",
+        "January 2020"
+      ],
+      [
+        "Southwest Meteorologists",
+        "10",
+        "TWU 550",
+        "June 2019"
+      ]
+    ]
+  },
+  {
+    "tab-16": [
+      [
+        "Shares received",
+        "Cash paid",
+        "2"
+      ],
+      [
+        "First Quarter 2019 Accelerated Share Repurchase Program",
+        "9.38",
+        "$500"
+      ],
+      [
+        "Second Quarter 2019 Accelerated Share Repurchase Program",
+        "7.82",
+        "400"
+      ],
+      [
+        "Third Quarter 2019 Accelerated Share Repurchase Program",
+        "9.49",
+        "500"
+      ],
+      [
+        "Fourth Quarter 2019 Accelerated Share Repurchase Program",
+        "9.11",
+        "550"
+      ],
+      [
+        "Open Market Share Repurchases",
+        "0.95",
+        "50"
+      ],
+      [
+        "Total",
+        "36.75",
+        "$2,000"
+      ]
+    ]
+  },
+  {
+    "tab-17": [
+      [
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "Revenue passenger miles (in millions)",
+        "217,712",
+        "213,098",
+        "209,625",
+        "202,925",
+        "194,988"
+      ],
+      [
+        "Available seat miles (in millions)",
+        "254,325",
+        "251,867",
+        "246,764",
+        "239,676",
+        "232,740"
+      ],
+      [
+        "Passenger mile yield",
+        "15.99\u00a2",
+        "15.85\u00a2",
+        "16.59\u00a2",
+        "17.22\u00a2",
+        "16.89\u00a2"
+      ],
+      [
+        "Passenger revenue per available seat mile",
+        "13.69\u00a2",
+        "13.41\u00a2",
+        "14.10\u00a2",
+        "14.58\u00a2",
+        "14.15\u00a2"
+      ],
+      [
+        "Total revenue per available seat mile",
+        "16.22\u00a2",
+        "15.74\u00a2",
+        "16.50\u00a2",
+        "16.84\u00a2",
+        "16.23\u00a2"
+      ],
+      [
+        "Operating cost per available seat mile",
+        "13.81\u00a2",
+        "12.98\u00a2",
+        "13.33\u00a2",
+        "15.92\u00a2",
+        "14.77\u00a2"
+      ],
+      [
+        "Passenger load factor",
+        "85.6%",
+        "84.6%",
+        "84.9%",
+        "84.7%",
+        "83.8%"
+      ],
+      [
+        "Fuel gallons consumed (in millions)",
+        "4,032",
+        "4,016",
+        "3,988",
+        "3,893",
+        "3,828"
+      ],
+      [
+        "Average price per fuel gallon (2)",
+        "$1.68",
+        "$1.49",
+        "$1.90",
+        "$3.47",
+        "$3.00"
+      ],
+      [
+        "Full-time equivalent employees, end of period",
+        "86,564",
+        "83,756",
+        "82,949",
+        "79,655",
+        "77,755"
+      ]
+    ]
+  },
+  {
+    "tab-22": [
+      [
+        "(in millions, except repurchase price)",
+        "Share Repurchase Authorization",
+        "Average Repurchase Price",
+        "Planned Completion Date",
+        "Authorization Remaining"
+      ],
+      [
+        "May 2014 Program",
+        "$2,000",
+        "$42.86",
+        "December 31, 2016",
+        "Completed June 2015"
+      ],
+      [
+        "May 2015 Program",
+        "$5,000",
+        "$45.32",
+        "December 31, 2017",
+        "Completed September 2017"
+      ],
+      [
+        "May 2017 Program",
+        "$5,000",
+        "$52.13",
+        "December 31, 2020",
+        "$4,675"
+      ]
+    ]
+  },
+  {
+    "tab-23": [
+      [
+        "Year",
+        "Gallons Consumed (in millions)",
+        "Fuel Expense       (in millions)",
+        "Average Price Per Gallon",
+        "Percentage of Total Operating Expense"
+      ],
+      [
+        "2019",
+        "4,292",
+        "$8,953",
+        "$2.09",
+        "23%"
+      ],
+      [
+        "2018",
+        "4,137",
+        "$9,307",
+        "$2.25",
+        "24%"
+      ],
+      [
+        "2017",
+        "3,978",
+        "$6,913",
+        "$1.74",
+        "20%"
+      ]
+    ]
+  },
+  {
+    "tab-24": [
+      [
+        "",
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2019",
+        "2018 (a)",
+        "2017 (a)",
+        "2016",
+        "2015"
+      ],
+      [
+        "Income Statement Data (in millions, except per share amounts):",
+        "Operating revenue",
+        "$43,259",
+        "$41,303",
+        "$37,784",
+        "$36,558",
+        "$37,864"
+      ],
+      [
+        "Income Statement Data (in millions, except per share amounts):",
+        "Operating expense",
+        "38,958",
+        "38,074",
+        "34,166",
+        "32,214",
+        "32,698"
+      ],
+      [
+        "Income Statement Data (in millions, except per share amounts):",
+        "Operating income",
+        "4,301",
+        "3,229",
+        "3,618",
+        "4,344",
+        "5,166"
+      ],
+      [
+        "Income Statement Data (in millions, except per share amounts):",
+        "Net income",
+        "3,009",
+        "2,122",
+        "2,143",
+        "2,234",
+        "7,340"
+      ],
+      [
+        "Income Statement Data (in millions, except per share amounts):",
+        "Basic earnings per share",
+        "11.63",
+        "7.70",
+        "7.08",
+        "6.77",
+        "19.52"
+      ],
+      [
+        "Income Statement Data (in millions, except per share amounts):",
+        "Diluted earnings per share",
+        "11.58",
+        "7.67",
+        "7.06",
+        "6.76",
+        "19.47"
+      ],
+      [
+        "Balance Sheet Data at December 31 (in millions):",
+        "Unrestricted cash, cash equivalents and short-term investments",
+        "$4,944",
+        "$3,950",
+        "$3,798",
+        "$4,428",
+        "$5,196"
+      ],
+      [
+        "Balance Sheet Data at December 31 (in millions):",
+        "Total assets",
+        "52,611",
+        "49,024",
+        "47,469",
+        "40,208",
+        "40,861"
+      ],
+      [
+        "Balance Sheet Data at December 31 (in millions):",
+        "Debt and finance lease obligations (b)",
+        "14,818",
+        "13,792",
+        "13,576",
+        "11,705",
+        "11,759"
+      ]
+    ]
+  },
+  {
+    "tab-25": [
+      [
+        "",
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Passengers (thousands) (b)",
+        "162,443",
+        "158,330",
+        "148,067",
+        "143,177",
+        "140,369"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Revenue passenger miles (\"RPMs\") (millions) (c)",
+        "239,360",
+        "230,155",
+        "216,261",
+        "210,309",
+        "208,611"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Available seat miles (\"ASMs\") (millions) (d)",
+        "284,999",
+        "275,262",
+        "262,386",
+        "253,590",
+        "250,003"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Cargo revenue ton miles (millions) (e)",
+        "3,329",
+        "3,425",
+        "3,316",
+        "2,805",
+        "2,614"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Passenger load factor (f)",
+        "84.0%",
+        "83.6%",
+        "82.4%",
+        "82.9%",
+        "83.4%"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Passenger revenue per available seat mile (\"PRASM\") (cents)",
+        "13.90",
+        "13.70",
+        "13.13",
+        "13.18",
+        "13.11"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Total revenue per available seat mile (\"TRASM\") (cents)",
+        "15.18",
+        "15.00",
+        "14.40",
+        "14.42",
+        "15.15"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Average yield per revenue passenger mile (\"Yield\") (cents) (g)",
+        "16.55",
+        "16.38",
+        "15.93",
+        "15.90",
+        "15.72"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Cost per available seat mile (\"CASM\") (cents)",
+        "13.67",
+        "13.83",
+        "13.02",
+        "12.70",
+        "13.08"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Average price per gallon of fuel, including fuel taxes",
+        "$2.09",
+        "$2.25",
+        "$1.74",
+        "$1.49",
+        "$1.94"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Fuel gallons consumed (millions)",
+        "4,292",
+        "4,137",
+        "3,978",
+        "3,904",
+        "3,886"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Average stage length (miles) (h)",
+        "1,460",
+        "1,446",
+        "1,460",
+        "1,473",
+        "1,487"
+      ],
+      [
+        "Select operating statistics (a)",
+        "Average daily utilization of each mainline aircraft (hours:minutes) (i)",
+        "10:39",
+        "10:45",
+        "10:27",
+        "10:06",
+        "10:24"
+      ]
+    ]
+  },
+  {
+    "tab-26": [
+      [
+        "",
+        "Increase (decrease) from 2018 (a):",
+        "Increase (decrease) from 2018 (a):",
+        "Increase (decrease) from 2018 (a):",
+        "Increase (decrease) from 2018 (a):",
+        "Increase (decrease) from 2018 (a):"
+      ],
+      [
+        "",
+        "Domestic",
+        "Atlantic",
+        "Pacific",
+        "Latin",
+        "Total"
+      ],
+      [
+        "Average fare per passenger",
+        "3.4%",
+        "(1.9)%",
+        "(4.0)%",
+        "5.9%",
+        "2.4%"
+      ],
+      [
+        "Passengers",
+        "2.1%",
+        "6.5 %",
+        "4.0 %",
+        "3.9%",
+        "2.6%"
+      ],
+      [
+        "RPMs (traffic)",
+        "3.5%",
+        "6.9 %",
+        "2.4 %",
+        "4.0%",
+        "4.0%"
+      ],
+      [
+        "ASMs (capacity)",
+        "3.8%",
+        "5.8 %",
+        "0.5 %",
+        "2.9%",
+        "3.5%"
+      ],
+      [
+        "Passenger load factor (points)",
+        "(0.2)",
+        "0.8",
+        "1.5",
+        "0.9",
+        "0.4"
+      ]
+    ]
+  },
+  {
+    "tab-27": [
+      [
+        "",
+        "2019",
+        "2018",
+        "Increase (Decrease)",
+        "% Change"
+      ],
+      [
+        "Salaries and related costs",
+        "$12,071",
+        "$11,458",
+        "$613",
+        "5.3"
+      ],
+      [
+        "Aircraft fuel",
+        "8,953",
+        "9,307",
+        "(354)",
+        "(3.8)"
+      ],
+      [
+        "Regional capacity purchase",
+        "2,849",
+        "2,649",
+        "200",
+        "7.6"
+      ],
+      [
+        "Landing fees and other rent",
+        "2,543",
+        "2,449",
+        "94",
+        "3.8"
+      ],
+      [
+        "Depreciation and amortization",
+        "2,288",
+        "2,165",
+        "123",
+        "5.7"
+      ],
+      [
+        "Aircraft maintenance materials and outside repairs",
+        "1,794",
+        "1,767",
+        "27",
+        "1.5"
+      ],
+      [
+        "Distribution expenses",
+        "1,651",
+        "1,558",
+        "93",
+        "6.0"
+      ],
+      [
+        "Aircraft rent",
+        "288",
+        "433",
+        "(145)",
+        "(33.5)"
+      ],
+      [
+        "Special charges",
+        "246",
+        "487",
+        "(241)",
+        "NM"
+      ],
+      [
+        "Other operating expenses",
+        "6,275",
+        "5,801",
+        "474",
+        "8.2"
+      ],
+      [
+        "Total operating expenses",
+        "$38,958",
+        "$38,074",
+        "$884",
+        "2.3"
+      ]
+    ]
+  },
+  {
+    "tab-28": [
+      [
+        "",
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2019",
+        "2018 (a)",
+        "2017 (a)"
+      ],
+      [
+        "Operating revenue:",
+        "Passenger revenue",
+        "$39,625",
+        "$37,706",
+        "$34,460"
+      ],
+      [
+        "Operating revenue:",
+        "Cargo",
+        "1,179",
+        "1,237",
+        "1,114"
+      ],
+      [
+        "Operating revenue:",
+        "Other operating revenue",
+        "2,455",
+        "2,360",
+        "2,210"
+      ],
+      [
+        "Operating revenue:",
+        "Total operating revenue",
+        "43,259",
+        "41,303",
+        "37,784"
+      ],
+      [
+        "Operating expense:",
+        "Salaries and related costs",
+        "12,071",
+        "11,458",
+        "10,941"
+      ],
+      [
+        "Operating expense:",
+        "Aircraft fuel",
+        "8,953",
+        "9,307",
+        "6,913"
+      ],
+      [
+        "Operating expense:",
+        "Regional capacity purchase",
+        "2,849",
+        "2,649",
+        "2,268"
+      ],
+      [
+        "Operating expense:",
+        "Landing fees and other rent",
+        "2,543",
+        "2,449",
+        "2,310"
+      ],
+      [
+        "Operating expense:",
+        "Depreciation and amortization",
+        "2,288",
+        "2,165",
+        "2,096"
+      ],
+      [
+        "Operating expense:",
+        "Aircraft maintenance materials and outside repairs",
+        "1,794",
+        "1,767",
+        "1,856"
+      ],
+      [
+        "Operating expense:",
+        "Distribution expenses",
+        "1,651",
+        "1,558",
+        "1,435"
+      ],
+      [
+        "Operating expense:",
+        "Aircraft rent",
+        "288",
+        "433",
+        "621"
+      ],
+      [
+        "Operating expense:",
+        "Special charges",
+        "246",
+        "487",
+        "176"
+      ],
+      [
+        "Operating expense:",
+        "Other operating expenses",
+        "6,275",
+        "5,801",
+        "5,550"
+      ],
+      [
+        "Operating expense:",
+        "Total operating expense",
+        "38,958",
+        "38,074",
+        "34,166"
+      ],
+      [
+        "Operating expense:",
+        "Operating income",
+        "4,301",
+        "3,229",
+        "3,618"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Interest expense",
+        "( 731 )",
+        "( 670 )",
+        "( 626 )"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Interest capitalized",
+        "85",
+        "65",
+        "74"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Interest income",
+        "133",
+        "101",
+        "57"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Unrealized gains (losses) on investments, net",
+        "153",
+        "( 5 )",
+        "\u2014"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Miscellaneous, net",
+        "( 27 )",
+        "( 72 )",
+        "( 100 )"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Total nonoperating expense, net",
+        "( 387 )",
+        "( 581 )",
+        "( 595 )"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Income before income taxes",
+        "3,914",
+        "2,648",
+        "3,023"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Income tax expense",
+        "905",
+        "526",
+        "880"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Net income",
+        "$3,009",
+        "$2,122",
+        "$2,143"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Earnings per share, basic",
+        "$11.63",
+        "$7.70",
+        "$7.08"
+      ],
+      [
+        "Nonoperating income (expense):",
+        "Earnings per share, diluted",
+        "$11.58",
+        "$7.67",
+        "$7.06"
+      ]
+    ]
+  },
+  {
+    "tab-30": [
+      [
+        "Type",
+        "Seats",
+        "Average Age (Yrs)",
+        "Number of Aircraft",
+        "Number Owned (a)",
+        "Number Leased"
+      ],
+      [
+        "737-700",
+        "143",
+        "15",
+        "512",
+        "396",
+        "116"
+      ],
+      [
+        "737-800",
+        "175",
+        "3",
+        "207",
+        "200",
+        "7"
+      ],
+      [
+        "737 MAX 8",
+        "175",
+        "1",
+        "31",
+        "31",
+        "\u2014"
+      ],
+      [
+        "Totals",
+        "",
+        "11",
+        "750",
+        "627",
+        "123"
+      ]
+    ]
+  },
+  {
+    "tab-31": [
+      [
+        "",
+        "Position",
+        "Age"
+      ],
+      [
+        "Gary C. Kelly",
+        "Chairman of the Board & Chief Executive Officer",
+        "63"
+      ],
+      [
+        "Thomas M. Nealon",
+        "President",
+        "57"
+      ],
+      [
+        "Michael G. Van de Ven",
+        "Chief Operating Officer",
+        "57"
+      ],
+      [
+        "Robert E. Jordan",
+        "Executive Vice President Corporate Services",
+        "58"
+      ],
+      [
+        "Tammy Romo",
+        "Executive Vice President & Chief Financial Officer",
+        "56"
+      ],
+      [
+        "Mark R. Shaw",
+        "Executive Vice President & Chief Legal & Regulatory Officer",
+        "56"
+      ],
+      [
+        "Andrew M. Watterson",
+        "Executive Vice President & Chief Revenue Officer",
+        "52"
+      ],
+      [
+        "Gregory D. Wells",
+        "Executive Vice President Daily Operations",
+        "60"
+      ]
+    ]
+  },
+  {
+    "tab-32": [
+      [
+        "",
+        "",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "",
+        "",
+        "",
+        "As Recast",
+        "As Recast",
+        "As Recast (k)",
+        "As Recast (k)"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Operating revenues",
+        "$21,965",
+        "$21,146",
+        "$20,289",
+        "$19,820",
+        "$18,605"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Operating expenses",
+        "18,759",
+        "17,739",
+        "16,767",
+        "15,821",
+        "16,437"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Operating income",
+        "3,206",
+        "3,407",
+        "3,522",
+        "3,999",
+        "2,168"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Other expenses (income) net",
+        "42",
+        "142",
+        "72",
+        "520",
+        "352"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Income before taxes",
+        "3,164",
+        "3,265",
+        "3,450",
+        "3,479",
+        "1,816"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Provision for income taxes",
+        "699",
+        "(92)",
+        "1,267",
+        "1,298",
+        "680"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Net income",
+        "$2,465",
+        "$3,357",
+        "$2,183",
+        "$2,181",
+        "$1,136"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Net income per share, basic",
+        "$4.30",
+        "$5.58",
+        "$3.48",
+        "$3.30",
+        "$1.65"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Net income per share, diluted",
+        "$4.29",
+        "$5.57",
+        "$3.45",
+        "$3.27",
+        "$1.64"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Cash dividends per common share",
+        "$0.6050",
+        "$0.4750",
+        "$0.3750",
+        "$0.2850",
+        "$0.2200"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Total assets at period-end",
+        "$26,243",
+        "$25,110",
+        "$23,286",
+        "$21,312",
+        "$19,723"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Long-term obligations at period-end",
+        "$2,771",
+        "$3,320",
+        "$2,821",
+        "$2,541",
+        "$2,434"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Stockholders\u2019 equity at period-end",
+        "$9,853",
+        "$9,641",
+        "$7,784",
+        "$7,358",
+        "$6,775"
+      ],
+      [
+        "Operating Data:",
+        "Revenue passengers carried",
+        "134,890,243",
+        "130,256,190",
+        "124,719,765",
+        "118,171,211",
+        "110,496,912"
+      ],
+      [
+        "Operating Data:",
+        "Enplaned passengers",
+        "163,605,833",
+        "157,677,218",
+        "151,740,357",
+        "144,574,882",
+        "135,767,188"
+      ],
+      [
+        "Operating Data:",
+        "Revenue passenger miles (RPMs) (000s) (a)",
+        "133,322,322",
+        "129,041,420",
+        "124,797,986",
+        "117,499,879",
+        "108,035,133"
+      ],
+      [
+        "Operating Data:",
+        "Available seat miles (ASMs) (000s) (b)",
+        "159,795,153",
+        "153,811,072",
+        "148,522,051",
+        "140,501,409",
+        "131,003,957"
+      ],
+      [
+        "Operating Data:",
+        "Load factor (c)",
+        "83.4%",
+        "83.9%",
+        "84.0%",
+        "83.6%",
+        "82.5%"
+      ],
+      [
+        "Operating Data:",
+        "Average length of passenger haul (miles)",
+        "988",
+        "991",
+        "1,001",
+        "994",
+        "978"
+      ],
+      [
+        "Operating Data:",
+        "Average aircraft stage length (miles)",
+        "757",
+        "754",
+        "760",
+        "750",
+        "721"
+      ],
+      [
+        "Operating Data:",
+        "Trips flown",
+        "1,375,030",
+        "1,347,893",
+        "1,311,149",
+        "1,267,358",
+        "1,255,502"
+      ],
+      [
+        "Operating Data:",
+        "Seats flown (d)",
+        "207,223,050",
+        "200,878,967",
+        "193,167,695",
+        "184,955,094",
+        "179,733,055"
+      ],
+      [
+        "Operating Data:",
+        "Seats per trip (e)",
+        "150.70",
+        "149.03",
+        "147.33",
+        "145.94",
+        "143.16"
+      ],
+      [
+        "Operating Data:",
+        "Average passenger fare",
+        "$151.64",
+        "$151.73",
+        "$152.89",
+        "$154.85",
+        "$159.80"
+      ],
+      [
+        "Operating Data:",
+        "Passenger revenue yield per RPM (cents) (f)",
+        "15.34",
+        "15.32",
+        "15.28",
+        "15.57",
+        "16.34"
+      ],
+      [
+        "Operating Data:",
+        "Operating revenue per ASM (cents) (g)(j)",
+        "13.75",
+        "13.75",
+        "13.66",
+        "13.98",
+        "14.20"
+      ],
+      [
+        "Operating Data:",
+        "Passenger revenue per ASM (cents) (h)",
+        "12.80",
+        "12.85",
+        "12.84",
+        "13.02",
+        "13.48"
+      ],
+      [
+        "Operating Data:",
+        "Operating expenses per ASM (cents) (i)",
+        "11.74",
+        "11.53",
+        "11.29",
+        "11.26",
+        "12.55"
+      ],
+      [
+        "Operating Data:",
+        "Operating expenses per ASM, excluding fuel (cents)",
+        "8.85",
+        "8.88",
+        "8.73",
+        "8.60",
+        "8.46"
+      ],
+      [
+        "Operating Data:",
+        "Operating expenses per ASM, excluding fuel and profitsharing (cents)",
+        "8.51",
+        "8.53",
+        "8.34",
+        "8.16",
+        "8.19"
+      ],
+      [
+        "Operating Data:",
+        "Fuel costs per gallon, including fuel tax",
+        "$2.20",
+        "$1.99",
+        "$1.90",
+        "$1.96",
+        "$2.97"
+      ],
+      [
+        "Operating Data:",
+        "Fuel costs per gallon, including fuel tax, economic",
+        "$2.20",
+        "$2.06",
+        "$2.00",
+        "$2.13",
+        "$2.95"
+      ],
+      [
+        "Operating Data:",
+        "Fuel consumed, in gallons (millions)",
+        "2,094",
+        "2,045",
+        "1,996",
+        "1,901",
+        "1,801"
+      ],
+      [
+        "Operating Data:",
+        "Active fulltime equivalent Employees",
+        "58,803",
+        "56,110",
+        "53,536",
+        "49,583",
+        "46,278"
+      ],
+      [
+        "Operating Data:",
+        "Aircraft at end of period",
+        "750",
+        "706",
+        "723",
+        "704",
+        "665"
+      ]
+    ]
+  },
+  {
+    "tab-33": [
+      [
+        "",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "",
+        ""
+      ],
+      [
+        "",
+        "2018",
+        "2017",
+        "Per ASM",
+        "Percent"
+      ],
+      [
+        "",
+        "",
+        "As Recast",
+        "change",
+        "change"
+      ],
+      [
+        "Salaries, wages, and benefits",
+        "4.79\u00a2",
+        "4.74\u00a2",
+        "0.05\u00a2",
+        "1.1 %"
+      ],
+      [
+        "Fuel and oil",
+        "2.89",
+        "2.65",
+        "0.24",
+        "9.1"
+      ],
+      [
+        "Maintenance materials and repairs",
+        "0.69",
+        "0.65",
+        "0.04",
+        "6.2"
+      ],
+      [
+        "Landing fees and airport rentals",
+        "0.83",
+        "0.84",
+        "(0.01)",
+        "(1.2)"
+      ],
+      [
+        "Depreciation and amortization",
+        "0.75",
+        "0.79",
+        "(0.04)",
+        "(5.1)"
+      ],
+      [
+        "Other operating expenses",
+        "1.79",
+        "1.86",
+        "(0.07)",
+        "(3.8)"
+      ],
+      [
+        "Total",
+        "11.74\u00a2",
+        "11.53\u00a2",
+        "0.21\u00a2",
+        "1.8 %"
+      ]
+    ]
+  },
+  {
+    "tab-36": [
+      [
+        "",
+        "",
+        "Three months ended",
+        "Three months ended",
+        "Three months ended",
+        "Three months ended"
+      ],
+      [
+        "",
+        "",
+        "March 31",
+        "June 30",
+        "Sept. 30",
+        "Dec. 31"
+      ],
+      [
+        "2018",
+        "Operating revenues",
+        "$4,944",
+        "$5,742",
+        "$5,575",
+        "$5,704"
+      ],
+      [
+        "2018",
+        "Operating income",
+        "616",
+        "972",
+        "798",
+        "820"
+      ],
+      [
+        "2018",
+        "Income before income taxes",
+        "602",
+        "960",
+        "786",
+        "817"
+      ],
+      [
+        "2018",
+        "Net income",
+        "463",
+        "733",
+        "615",
+        "654"
+      ],
+      [
+        "2018",
+        "Net income per share, basic",
+        "0.79",
+        "1.27",
+        "1.08",
+        "1.17"
+      ],
+      [
+        "2018",
+        "Net income per share, diluted",
+        "0.79",
+        "1.27",
+        "1.08",
+        "1.17"
+      ],
+      [
+        "2017",
+        "Operating revenues",
+        "$4,854",
+        "$5,731",
+        "$5,303",
+        "$5,258"
+      ],
+      [
+        "2017",
+        "Operating income",
+        "606",
+        "1,215",
+        "845",
+        "741"
+      ],
+      [
+        "2017",
+        "Income before income taxes",
+        "532",
+        "1,165",
+        "832",
+        "736"
+      ],
+      [
+        "2017",
+        "Net income",
+        "339",
+        "743",
+        "528",
+        "1,747"
+      ],
+      [
+        "2017",
+        "Net income per share, basic",
+        "0.55",
+        "1.23",
+        "0.88",
+        "2.95"
+      ],
+      [
+        "2017",
+        "Net income per share, diluted",
+        "0.55",
+        "1.23",
+        "0.88",
+        "2.94"
+      ]
+    ]
+  },
+  {
+    "tab-37": [
+      [
+        "",
+        "",
+        "Class or Craft",
+        "Employees  (1)",
+        "Contract Amendable Date"
+      ],
+      [
+        "Mainline: (2)",
+        "Allied Pilots Association (APA)",
+        "Pilots",
+        "13,200",
+        "2020"
+      ],
+      [
+        "Mainline: (2)",
+        "Association of Professional Flight Attendants (APFA)",
+        "Flight Attendants",
+        "24,900",
+        "2019"
+      ],
+      [
+        "Mainline: (2)",
+        "Airline Customer Service Employee Association \\u2013Communications Workers of America and International Brotherhood of Teamsters (CWA-IBT)",
+        "Passenger Service",
+        "16,000",
+        "2020"
+      ],
+      [
+        "Mainline: (2)",
+        "Transport Workers Union and International Association of Machinists & Aerospace Workers (TWU-IAM Association)",
+        "Mechanics and Related",
+        "12,400",
+        "2018"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Fleet Service",
+        "16,700",
+        "2018"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Stock Clerks",
+        "1,900",
+        "2018"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Flight Simulator Engineers",
+        "150",
+        "2021"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Maintenance Control Technicians",
+        "200",
+        "2018"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Maintenance Training Instructors",
+        "50",
+        "2018"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU (Transport Workers Union)",
+        "Dispatchers",
+        "450",
+        "2021"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU",
+        "Flight Crew Training Instructors",
+        "300",
+        "2021"
+      ],
+      [
+        "Envoy: (3)",
+        "Air Line Pilots Associations (ALPA)",
+        "Pilots",
+        "2,200",
+        "2024"
+      ],
+      [
+        "Envoy: (3)",
+        "Association of Flight Attendants-CWA (AFA)",
+        "Flight Attendants",
+        "1,300",
+        "2020"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Ground School Instructors",
+        "10",
+        "2019"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Mechanics and Related",
+        "1,300",
+        "2020"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Stock Clerks",
+        "150",
+        "2020"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Fleet Service Clerks",
+        "3,500",
+        "2019"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Dispatchers",
+        "60",
+        "2019"
+      ],
+      [
+        "Envoy: (3)",
+        "Communications Workers of America (CWA)",
+        "Passenger Service",
+        "4,300",
+        "Initial Contract  in Negotiation"
+      ],
+      [
+        "Piedmont: (3)",
+        "ALPA",
+        "Pilots",
+        "550",
+        "2024"
+      ],
+      [
+        "Piedmont: (3)",
+        "AFA",
+        "Flight Attendants",
+        "300",
+        "2019"
+      ],
+      [
+        "Piedmont: (3)",
+        "International Brotherhood of Teamsters (IBT)",
+        "Mechanics",
+        "350",
+        "2021"
+      ],
+      [
+        "Piedmont: (3)",
+        "IBT",
+        "Stock Clerks",
+        "50",
+        "2021"
+      ],
+      [
+        "Piedmont: (3)",
+        "CWA",
+        "Fleet and Passenger Service",
+        "3,400",
+        "2017"
+      ],
+      [
+        "Piedmont: (3)",
+        "IBT",
+        "Dispatchers",
+        "20",
+        "2019"
+      ],
+      [
+        "Piedmont: (3)",
+        "ALPA",
+        "Flight Crew Training Instructors",
+        "40",
+        "2024"
+      ],
+      [
+        "PSA: (3)",
+        "ALPA",
+        "Pilots",
+        "1,500",
+        "2023"
+      ],
+      [
+        "PSA: (3)",
+        "AFA",
+        "Flight Attendants",
+        "1,000",
+        "2017"
+      ],
+      [
+        "PSA: (3)",
+        "International Association of Machinists & Aerospace Workers (IAM)",
+        "Mechanics",
+        "350",
+        "2016"
+      ],
+      [
+        "PSA: (3)",
+        "TWU",
+        "Dispatchers",
+        "50",
+        "2022"
+      ]
+    ]
+  },
+  {
+    "tab-38": [
+      [
+        "",
+        "",
+        "Class or Craft",
+        "Employees  (1)",
+        "Contract Amendable Date"
+      ],
+      [
+        "Mainline: (2)",
+        "Allied Pilots Association (APA)",
+        "Pilots",
+        "13,200",
+        "2020"
+      ],
+      [
+        "Mainline: (2)",
+        "Association of Professional Flight Attendants (APFA)",
+        "Flight Attendants",
+        "24,900",
+        "2019"
+      ],
+      [
+        "Mainline: (2)",
+        "Airline Customer Service Employee Association \\u2013Communications Workers of America and International Brotherhood of Teamsters (CWA-IBT)",
+        "Passenger Service",
+        "16,000",
+        "2020"
+      ],
+      [
+        "Mainline: (2)",
+        "Transport Workers Union and International Association of Machinists & Aerospace Workers (TWU-IAM Association)",
+        "Mechanics and Related",
+        "12,400",
+        "2018"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Fleet Service",
+        "16,700",
+        "2018"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Dispatchers",
+        "450",
+        "2021"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Flight Crew Training Instructors",
+        "300",
+        "2021"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Pilots",
+        "2,200",
+        "2024"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU-IAM Association",
+        "Flight Attendants",
+        "1,300",
+        "2020"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU (Transport Workers Union)",
+        "Ground School Instructors",
+        "10",
+        "2019"
+      ],
+      [
+        "Mainline: (2)",
+        "TWU",
+        "Passenger Service",
+        "4,300",
+        "Initial Contract  in Negotiation"
+      ],
+      [
+        "Envoy: (3)",
+        "Air Line Pilots Associations (ALPA)",
+        "Pilots",
+        "550",
+        "2024"
+      ],
+      [
+        "Envoy: (3)",
+        "Association of Flight Attendants-CWA (AFA)",
+        "Flight Attendants",
+        "300",
+        "2019"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Mechanics",
+        "350",
+        "2021"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Stock Clerks",
+        "50",
+        "2021"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Fleet and Passenger Service",
+        "3,400",
+        "2017"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Pilots",
+        "1,500",
+        "2023"
+      ],
+      [
+        "Envoy: (3)",
+        "TWU",
+        "Flight Attendants",
+        "1,000",
+        "2017"
+      ],
+      [
+        "Envoy: (3)",
+        "Communications Workers of America (CWA)",
+        "Mechanics",
+        "350",
+        "2016"
+      ],
+      [
+        "Piedmont: (3)",
+        "ALPA",
+        "Dispatchers",
+        "50",
+        "2022"
+      ]
+    ]
+  },
+  {
+    "tab-39": [
+      [
+        "Year",
+        "Gallons",
+        "Average  Price per Gallon",
+        "Aircraft  Fuel Expense",
+        "Percent of Total Operating Expenses"
+      ],
+      [
+        "2017",
+        "4,352",
+        "$1.73",
+        "$7,510",
+        "19.7%"
+      ],
+      [
+        "2016",
+        "4,347",
+        "1.42",
+        "6,180",
+        "17.7%"
+      ],
+      [
+        "2015",
+        "4,323",
+        "1.72",
+        "7,456",
+        "21.4%"
+      ]
+    ]
+  },
+  {
+    "tab-40": [
+      [
+        "",
+        "Average  Seating Capacity",
+        "Average Age (Years)",
+        "Owned",
+        "Leased",
+        "Total"
+      ],
+      [
+        "Airbus A319",
+        "128",
+        "13.8",
+        "21",
+        "104",
+        "125"
+      ],
+      [
+        "Airbus A320",
+        "150",
+        "16.7",
+        "10",
+        "38",
+        "48"
+      ],
+      [
+        "Airbus A321",
+        "178",
+        "5.4",
+        "165",
+        "54",
+        "219"
+      ],
+      [
+        "Airbus A330-200",
+        "251",
+        "6.0",
+        "15",
+        "\u2014",
+        "15"
+      ],
+      [
+        "Airbus A330-300",
+        "291",
+        "17.4",
+        "4",
+        "5",
+        "9"
+      ],
+      [
+        "Boeing 737-800",
+        "160",
+        "8.1",
+        "132",
+        "172",
+        "304"
+      ],
+      [
+        "Boeing 737-8 MAX",
+        "172",
+        "0.1",
+        "4",
+        "\u2014",
+        "4"
+      ],
+      [
+        "Boeing 757-200",
+        "180",
+        "18.1",
+        "31",
+        "3",
+        "34"
+      ],
+      [
+        "Boeing 767-300ER",
+        "209",
+        "19.1",
+        "24",
+        "\u2014",
+        "24"
+      ],
+      [
+        "Boeing 777-200ER",
+        "269",
+        "17.0",
+        "44",
+        "3",
+        "47"
+      ],
+      [
+        "Boeing 777-300ER",
+        "310",
+        "3.8",
+        "18",
+        "2",
+        "20"
+      ],
+      [
+        "Boeing 787-8",
+        "226",
+        "2.1",
+        "20",
+        "\u2014",
+        "20"
+      ],
+      [
+        "Boeing 787-9",
+        "285",
+        "0.7",
+        "14",
+        "\u2014",
+        "14"
+      ],
+      [
+        "Embraer 190",
+        "99",
+        "10.2",
+        "20",
+        "\u2014",
+        "20"
+      ],
+      [
+        "McDonnell Douglas MD-80",
+        "140",
+        "21.3",
+        "13",
+        "32",
+        "45"
+      ],
+      [
+        "Total",
+        "",
+        "10.1",
+        "535",
+        "413",
+        "948"
+      ]
+    ]
+  },
+  {
+    "tab-43": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016 (a)",
+        "2015",
+        "2014"
+      ],
+      [
+        "West Coast (b)",
+        "23%",
+        "24%",
+        "30%",
+        "31%",
+        "31%"
+      ],
+      [
+        "Transcon/midcon",
+        "46%",
+        "45%",
+        "30%",
+        "27%",
+        "25%"
+      ],
+      [
+        "Hawaii and Costa Rica",
+        "15%",
+        "15%",
+        "19%",
+        "20%",
+        "20%"
+      ],
+      [
+        "Alaska",
+        "11%",
+        "11%",
+        "15%",
+        "16%",
+        "16%"
+      ],
+      [
+        "Mexico",
+        "5%",
+        "5%",
+        "6%",
+        "6%",
+        "7%"
+      ],
+      [
+        "Canada",
+        "\u2014%",
+        "\u2014%",
+        "\u2014%",
+        "\u2014%",
+        "1%"
+      ],
+      [
+        "Total",
+        "100%",
+        "100%",
+        "100%",
+        "100%",
+        "100%"
+      ],
+      [
+        "Average Stage Length (miles)",
+        "1,298",
+        "1,301",
+        "1,225",
+        "1,195",
+        "1,182"
+      ]
+    ]
+  },
+  {
+    "tab-44": [
+      [
+        "",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "West Coast",
+        "53%",
+        "59%",
+        "60%",
+        "62%",
+        "66%"
+      ],
+      [
+        "Pacific Northwest",
+        "11%",
+        "13%",
+        "16%",
+        "19%",
+        "19%"
+      ],
+      [
+        "Canada",
+        "3%",
+        "4%",
+        "5%",
+        "7%",
+        "8%"
+      ],
+      [
+        "Alaska",
+        "2%",
+        "3%",
+        "4%",
+        "5%",
+        "4%"
+      ],
+      [
+        "Midcon",
+        "30%",
+        "21%",
+        "15%",
+        "6%",
+        "2%"
+      ],
+      [
+        "Mexico",
+        "1%",
+        "\u2014%",
+        "\u2014%",
+        "1%",
+        "1%"
+      ],
+      [
+        "Total",
+        "100%",
+        "100%",
+        "100%",
+        "100%",
+        "100%"
+      ],
+      [
+        "Average Stage Length (miles)",
+        "468",
+        "422",
+        "381",
+        "348",
+        "339"
+      ]
+    ]
+  },
+  {
+    "tab-45": [
+      [
+        "Union",
+        "Employee Group",
+        "Number of Employees",
+        "Contract Status"
+      ],
+      [
+        "Air Line Pilots Association, International (ALPA)",
+        "Pilots",
+        "2,871",
+        "Amendable 4/1/2020"
+      ],
+      [
+        "Association of Flight Attendants (AFA)",
+        "Flight attendants",
+        "5,815",
+        "Amendable 12/17/2021"
+      ],
+      [
+        "International Association of Machinists and Aerospace Workers (IAM) (a)",
+        "Ramp service and stock clerks",
+        "688",
+        "Amendable 7/19/2018"
+      ],
+      [
+        "IAM",
+        "Clerical, office and passenger service",
+        "4,506",
+        "Amendable 1/1/2019"
+      ],
+      [
+        "Aircraft Mechanics Fraternal Association (AMFA) (a)",
+        "Mechanics, inspectors and cleaners",
+        "725",
+        "Amendable 10/17/2021"
+      ],
+      [
+        "Mexico Workers Association of Air Transport",
+        "Mexico airport personnel",
+        "73",
+        "Amendable 9/29/2019"
+      ],
+      [
+        "Transport Workers Union of America (TWU)",
+        "Dispatchers",
+        "87",
+        "Amendable 3/24/2019"
+      ]
+    ]
+  },
+  {
+    "tab-46": [
+      [
+        "",
+        "Position",
+        "Age",
+        "Air Group or Subsidiary Officer Since"
+      ],
+      [
+        "Bradley D. Tilden",
+        "Chairman and Chief Executive Officer of Alaska Air Group, Inc., Chairman of Alaska Airlines, Inc., Chairman of Horizon Air Industries, Inc.",
+        "58",
+        "1994"
+      ],
+      [
+        "Brandon S. Pedersen",
+        "Executive Vice President/Finance and Chief Financial Officer of Alaska Air Group, Inc. and Alaska Airlines, Inc., and Treasurer of Alaska Air Group, Inc. and Alaska Airlines, Inc.",
+        "52",
+        "2003"
+      ],
+      [
+        "Kyle B. Levine",
+        "Vice President Legal, General Counsel and Corporate Secretary of Alaska Air Group, Inc. and Alaska Airlines, Inc. and Chief Ethics and Compliance Officer of Alaska Air Group, Inc.",
+        "47",
+        "2016"
+      ],
+      [
+        "Benito Minicucci",
+        "President and Chief Operating Officer of Alaska Airlines, Inc.",
+        "52",
+        "2004"
+      ],
+      [
+        "Gary L. Beck",
+        "President and Chief Executive Officer of Horizon Air Industries, Inc.",
+        "71",
+        "2018"
+      ],
+      [
+        "Andrew R. Harrison",
+        "Executive Vice President and Chief Commercial Officer of Alaska Airlines, Inc.",
+        "49",
+        "2008"
+      ],
+      [
+        "Shane R. Tackett",
+        "Executive Vice President, Planning and Strategy of Alaska Airlines, Inc.",
+        "40",
+        "2011"
+      ],
+      [
+        "Andrea L. Schneider",
+        "Vice President People of Alaska Airlines, Inc.",
+        "53",
+        "1998"
+      ],
+      [
+        "Diana Birkett-Rakow",
+        "Vice President External Relations of Alaska Airlines, Inc.",
+        "41",
+        "2017"
+      ]
+    ]
+  },
+  {
+    "tab-47": [
+      [
+        "",
+        "Seats",
+        "Owned",
+        "Leased",
+        "Total",
+        "Average Age in Years"
+      ],
+      [
+        "B737 Freighters",
+        "\u2014",
+        "3",
+        "\u2014",
+        "3",
+        "17.9"
+      ],
+      [
+        "B737 NextGen",
+        "124-178",
+        "149",
+        "10",
+        "159",
+        "8.1"
+      ],
+      [
+        "A319/A320",
+        "119-149",
+        "10",
+        "53",
+        "63",
+        "8.8"
+      ],
+      [
+        "A321neo",
+        "185",
+        "\u2014",
+        "8",
+        "8",
+        "1.1"
+      ],
+      [
+        "Total Mainline Fleet",
+        "",
+        "162",
+        "71",
+        "233",
+        "8.2"
+      ],
+      [
+        "Q400",
+        "76",
+        "30",
+        "9",
+        "39",
+        "11.2"
+      ],
+      [
+        "E175",
+        "76",
+        "26",
+        "32",
+        "58",
+        "1.4"
+      ],
+      [
+        "Total Regional Fleet",
+        "",
+        "56",
+        "41",
+        "97",
+        "5.3"
+      ],
+      [
+        "Total",
+        "",
+        "218",
+        "112",
+        "330",
+        "7.3"
+      ]
+    ]
+  },
+  {
+    "tab-48": [
+      [
+        "",
+        "Total Number of Shares Purchased",
+        "Average Price Paid per Share",
+        "Total Number of Shares (or units) Purchased as Part of Publicly Announced Plans or Programs",
+        "Maximum remaining dollar value of shares that can be purchased under the plan (in millions)"
+      ],
+      [
+        "October 1, 2018 - October 31, 2018 (a)",
+        "72,448",
+        "$63.48",
+        "72,448",
+        ""
+      ],
+      [
+        "November 1, 2018 - November 30, 2018 (a)",
+        "68,185",
+        "67.80",
+        "68,185",
+        ""
+      ],
+      [
+        "December 1, 2018 - December 31, 2018 (a)",
+        "52,611",
+        "64.22",
+        "52,611",
+        ""
+      ],
+      [
+        "Total",
+        "193,244",
+        "$65.21",
+        "193,244",
+        "$562"
+      ]
+    ]
+  },
+  {
+    "tab-51": [
+      [
+        "",
+        "",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2018",
+        "2017",
+        "Change",
+        "2016"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "Revenue passengers (000)",
+        "45,802",
+        "44,005",
+        "4.1%",
+        "34,289"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "RPMs (000,000) \"traffic\"",
+        "54,673",
+        "52,338",
+        "4.5%",
+        "37,209"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "ASMs (000,000) \"capacity\"",
+        "65,335",
+        "62,072",
+        "5.3%",
+        "44,135"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "Load factor",
+        "83.7%",
+        "84.3%",
+        "(0.6) pts",
+        "84.3%"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "Yield (d)",
+        "13.96\u00a2",
+        "13.95\u00a2",
+        "0.1%",
+        "14.49\u00a2"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "RASM (d)",
+        "12.65\u00a2",
+        "12.72\u00a2",
+        "(0.6)%",
+        "13.43\u00a2"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "CASM excluding fuel and special items (b)(d)",
+        "8.50\u00a2",
+        "8.25\u00a2",
+        "3.0%",
+        "8.32\u00a2"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "Economic fuel cost per gallon (b)",
+        "$2.28",
+        "$1.82",
+        "25.3%",
+        "$1.52"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "Fuel gallons (000,000)",
+        "839",
+        "797",
+        "5.3%",
+        "554"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "ASM's per gallon",
+        "77.9",
+        "77.9",
+        "\u2014%",
+        "79.7"
+      ],
+      [
+        "Consolidated Operating Statistics: (a)",
+        "Average number of full-time equivalent employees (FTEs)",
+        "21,641",
+        "20,183",
+        "7.2%",
+        "14,760"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "Revenue passengers (000)",
+        "35,603",
+        "34,510",
+        "3.2%",
+        "24,838"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "RPMs (000,000) \"traffic\"",
+        "49,781",
+        "48,236",
+        "3.2%",
+        "33,489"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "ASMs (000,000) \"capacity\"",
+        "59,187",
+        "56,945",
+        "3.9%",
+        "39,473"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "Load factor",
+        "84.1%",
+        "84.7%",
+        "(0.6) pts",
+        "84.8%"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "Yield (d)",
+        "13.01\u00a2",
+        "13.02\u00a2",
+        "(0.1)%",
+        "13.18\u00a2"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "RASM (d)",
+        "11.93\u00a2",
+        "12.00\u00a2",
+        "(0.6)%",
+        "15.01\u00a2"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "CASM excluding fuel and special items (b)(d)",
+        "7.73\u00a2",
+        "7.50\u00a2",
+        "3.1%",
+        "7.39\u00a2"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "Economic fuel cost per gallon (b)",
+        "$2.27",
+        "$1.82",
+        "24.7%",
+        "$1.52"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "Fuel gallons (000,000)",
+        "727",
+        "706",
+        "3.0%",
+        "474"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "ASM's per gallon",
+        "81.4",
+        "80.7",
+        "0.9%",
+        "83.3"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "Average number of FTEs",
+        "16,353",
+        "15,653",
+        "4.5%",
+        "11,447"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "Aircraft utilization",
+        "11.2",
+        "11.2",
+        "\u2014%",
+        "10.5"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "Average aircraft stage length",
+        "1,298",
+        "1,301",
+        "(0.2)%",
+        "1,225"
+      ],
+      [
+        "Mainline Operating Statistics:",
+        "Mainline operating fleet at period-end",
+        "233 a/c",
+        "221 a/c",
+        "12 a/c",
+        "218 a/c"
+      ],
+      [
+        "Regional Operating Statistics: (c)",
+        "Revenue passengers (000)",
+        "10,199",
+        "9,495",
+        "7.4%",
+        "9,452"
+      ],
+      [
+        "Regional Operating Statistics: (c)",
+        "RPMs (000,000) \"traffic\"",
+        "4,892",
+        "4,101",
+        "19.3%",
+        "3,720"
+      ],
+      [
+        "Regional Operating Statistics: (c)",
+        "ASMs (000,000) \"capacity\"",
+        "6,148",
+        "5,127",
+        "19.9%",
+        "4,662"
+      ],
+      [
+        "Regional Operating Statistics: (c)",
+        "Load factor",
+        "79.6%",
+        "80.0%",
+        "(0.4) pts",
+        "79.8%"
+      ],
+      [
+        "Regional Operating Statistics: (c)",
+        "Yield (d)",
+        "23.66\u00a2",
+        "24.96\u00a2",
+        "(5.2)%",
+        "26.26\u00a2"
+      ]
+    ]
+  },
+  {
+    "tab-52": [
+      [
+        "",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,"
+      ],
+      [
+        "",
+        "2018",
+        "2018",
+        "2017",
+        "2017"
+      ],
+      [
+        "",
+        "Dollars",
+        "Cost/Gal",
+        "Dollars",
+        "Cost/Gal"
+      ],
+      [
+        "Raw or \"into-plane\" fuel cost",
+        "$1,938",
+        "$2.31",
+        "$1,437",
+        "$1.80"
+      ],
+      [
+        "(Gain)/loss on settled hedges",
+        "(24)",
+        "(0.03)",
+        "17",
+        "0.02"
+      ],
+      [
+        "Consolidated economic fuel expense",
+        "$1,914",
+        "$2.28",
+        "$1,454",
+        "$1.82"
+      ],
+      [
+        "Mark-to-market fuel hedge adjustments",
+        "22",
+        "0.03",
+        "(7)",
+        "\u2014"
+      ],
+      [
+        "GAAP fuel expense",
+        "$1,936",
+        "$2.31",
+        "$1,447",
+        "$1.82"
+      ],
+      [
+        "Fuel gallons",
+        "839",
+        "",
+        "797",
+        ""
+      ]
+    ]
+  },
+  {
+    "tab-53": [
+      [
+        "",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,"
+      ],
+      [
+        "",
+        "2018",
+        "2017",
+        "% Change"
+      ],
+      [
+        "Wages",
+        "$1,658",
+        "$1,468",
+        "12.9%"
+      ],
+      [
+        "Pension\u2014Defined benefit plans",
+        "48",
+        "39",
+        "23.1%"
+      ],
+      [
+        "Defined contribution plans",
+        "126",
+        "103",
+        "22.3%"
+      ],
+      [
+        "Medical and other benefits",
+        "245",
+        "216",
+        "13.4%"
+      ],
+      [
+        "Payroll taxes",
+        "113",
+        "105",
+        "7.6%"
+      ],
+      [
+        "Total wages and benefits",
+        "$2,190",
+        "$1,931",
+        "13.4%"
+      ]
+    ]
+  },
+  {
+    "tab-54": [
+      [
+        "",
+        "December 31, 2018",
+        "December 31, 2017",
+        "Change"
+      ],
+      [
+        "Cash and marketable securities",
+        "$1,236",
+        "$1,621",
+        "$(385)"
+      ],
+      [
+        "Cash, marketable securities and unused lines of credit as a percentage of trailing twelve months revenue",
+        "20%",
+        "26%",
+        "(6) pts"
+      ],
+      [
+        "Long-term debt, net of current portion",
+        "$1,617",
+        "$2,262",
+        "$(645)"
+      ],
+      [
+        "Shareholders\u2019 equity",
+        "$3,751",
+        "$3,460",
+        "$291"
+      ],
+      [
+        "Long-term debt-to-capital including net present value of aircraft operating lease payments (a)",
+        "47%",
+        "53%",
+        "(6) pts"
+      ]
+    ]
+  },
+  {
+    "tab-55": [
+      [
+        "Year",
+        "Gallons Consumed (in millions)",
+        "Fuel Expense (in millions)",
+        "Average Price Per Gallon",
+        "Percentage of Total Operating Expense"
+      ],
+      [
+        "2017",
+        "3,978",
+        "$6,913",
+        "$1.74",
+        "20%"
+      ],
+      [
+        "2016",
+        "3,904",
+        "$5,813",
+        "$1.49",
+        "18%"
+      ],
+      [
+        "2015",
+        "3,886",
+        "$7,522",
+        "$1.94",
+        "23%"
+      ]
+    ]
+  },
+  {
+    "tab-56": [
+      [
+        "Employee\nGroup",
+        "Number of Employees",
+        "Union",
+        "Agreement Open\nfor Amendment"
+      ],
+      [
+        "Flight Attendants",
+        "22,676",
+        "Association of Flight Attendants (the \u201cAFA\u201d)",
+        "August 2021"
+      ],
+      [
+        "Passenger Service",
+        "13,299",
+        "International Association of Machinists and Aerospace Workers (the \u201cIAM\u201d)",
+        "December 2021"
+      ],
+      [
+        "Fleet Service",
+        "13,187",
+        "IAM",
+        "December 2021"
+      ],
+      [
+        "Pilots",
+        "11,492",
+        "Air Line Pilots Association, International",
+        "January 2019"
+      ],
+      [
+        "Technicians and Related & Flight Simulator Technicians",
+        "9,535",
+        "International Brotherhood of Teamsters (the \u201cIBT\u201d)",
+        "December 2022"
+      ],
+      [
+        "Storekeeper Employees",
+        "1,000",
+        "IAM",
+        "December 2021"
+      ],
+      [
+        "Dispatchers",
+        "402",
+        "Professional Airline Flight Control Association",
+        "December 2021"
+      ],
+      [
+        "Fleet Tech Instructors",
+        "111",
+        "IAM",
+        "December 2021"
+      ],
+      [
+        "Load Planners",
+        "71",
+        "IAM",
+        "December 2021"
+      ],
+      [
+        "Security Officers",
+        "51",
+        "IAM",
+        "December 2021"
+      ],
+      [
+        "Maintenance Instructors",
+        "40",
+        "IAM",
+        "December 2021"
+      ]
+    ]
+  },
+  {
+    "tab-57": [
+      [
+        "",
+        "Total",
+        "Owned",
+        "Leased",
+        "Seats in Standard Configuration",
+        "Average Age (In Years)"
+      ],
+      [
+        "777-300ER",
+        "14",
+        "14",
+        "\u2014",
+        "366",
+        "0.7"
+      ],
+      [
+        "777-200ER",
+        "55",
+        "40",
+        "15",
+        "267-269",
+        "17.8"
+      ],
+      [
+        "777-200",
+        "19",
+        "19",
+        "\u2014",
+        "364",
+        "20.5"
+      ],
+      [
+        "787-9",
+        "21",
+        "21",
+        "\u2014",
+        "252",
+        "2.1"
+      ],
+      [
+        "787-8",
+        "12",
+        "12",
+        "\u2014",
+        "219",
+        "4.5"
+      ],
+      [
+        "767-400ER",
+        "16",
+        "14",
+        "2",
+        "242",
+        "16.3"
+      ],
+      [
+        "767-300ER",
+        "35",
+        "22",
+        "13",
+        "183-214",
+        "22.5"
+      ],
+      [
+        "757-300",
+        "21",
+        "9",
+        "12",
+        "213",
+        "15.3"
+      ],
+      [
+        "757-200",
+        "56",
+        "50",
+        "6",
+        "142-169",
+        "21.7"
+      ],
+      [
+        "737-900ER",
+        "136",
+        "136",
+        "\u2014",
+        "179",
+        "5.0"
+      ],
+      [
+        "737-900",
+        "12",
+        "8",
+        "4",
+        "179",
+        "16.3"
+      ],
+      [
+        "737-800",
+        "141",
+        "77",
+        "64",
+        "154-166",
+        "13.8"
+      ],
+      [
+        "737-700",
+        "40",
+        "20",
+        "20",
+        "118-126",
+        "18.8"
+      ],
+      [
+        "A320-200",
+        "99",
+        "66",
+        "33",
+        "150",
+        "19.3"
+      ],
+      [
+        "A319-100",
+        "67",
+        "50",
+        "17",
+        "128",
+        "16.7"
+      ],
+      [
+        "Total mainline",
+        "744",
+        "558",
+        "186",
+        "",
+        "14.3"
+      ]
+    ]
+  },
+  {
+    "tab-59": [
+      [
+        "",
+        "UAL",
+        "UAL",
+        "UAL",
+        "UAL"
+      ],
+      [
+        "",
+        "2017",
+        "2017",
+        "2016",
+        "2016"
+      ],
+      [
+        "",
+        "High",
+        "Low",
+        "High",
+        "Low"
+      ],
+      [
+        "1st quarter",
+        "$    76.75",
+        "$    64.16",
+        "$    61.41",
+        "$    42.17"
+      ],
+      [
+        "2nd quarter",
+        "83.04",
+        "67.55",
+        "58.90",
+        "37.41"
+      ],
+      [
+        "3rd quarter",
+        "81.39",
+        "57.34",
+        "54.53",
+        "37.64"
+      ],
+      [
+        "4th quarter",
+        "69.62",
+        "56.51",
+        "76.80",
+        "51.34"
+      ]
+    ]
+  },
+  {
+    "tab-60": [
+      [
+        "",
+        "Total number of shares purchased (a)(b)",
+        "Average price paid per share (b)(c)",
+        "Total number of shares purchased as part of publicly announced plans or programs (a)",
+        "Approximate dollar value of shares that may yet be purchased under the plans or programs (in millions) (a)"
+      ],
+      [
+        "October 2017",
+        "2,852,917",
+        "$59.59",
+        "2,852,917",
+        "$383"
+      ],
+      [
+        "November 2017",
+        "5,342,435",
+        "58.93",
+        "5,342,435",
+        "68"
+      ],
+      [
+        "December 2017",
+        "1,084,498",
+        "63.06",
+        "1,084,498",
+        "3,000"
+      ],
+      [
+        "Total",
+        "9,279,850",
+        "",
+        "9,279,850",
+        ""
+      ]
+    ]
+  },
+  {
+    "tab-62": [
+      [
+        "",
+        "2017",
+        "2016",
+        "Increase (Decrease)",
+        "% Change"
+      ],
+      [
+        "Salaries and related costs",
+        "$11,045",
+        "$10,275",
+        "$770",
+        "7.5"
+      ],
+      [
+        "Aircraft fuel",
+        "6,913",
+        "5,813",
+        "1,100",
+        "18.9"
+      ],
+      [
+        "Landing fees and other rent",
+        "2,240",
+        "2,165",
+        "75",
+        "3.5"
+      ],
+      [
+        "Regional capacity purchase",
+        "2,232",
+        "2,197",
+        "35",
+        "1.6"
+      ],
+      [
+        "Depreciation and amortization",
+        "2,149",
+        "1,977",
+        "172",
+        "8.7"
+      ],
+      [
+        "Aircraft maintenance materials and outside repairs",
+        "1,856",
+        "1,749",
+        "107",
+        "6.1"
+      ],
+      [
+        "Distribution expenses",
+        "1,349",
+        "1,303",
+        "46",
+        "3.5"
+      ],
+      [
+        "Aircraft rent",
+        "621",
+        "680",
+        "(59)",
+        "(8.7)"
+      ],
+      [
+        "Special charges",
+        "176",
+        "638",
+        "(462)",
+        "NM"
+      ],
+      [
+        "Other operating expenses",
+        "5,657",
+        "5,421",
+        "236",
+        "4.4"
+      ],
+      [
+        "Total operating expenses",
+        "$34,238",
+        "$32,218",
+        "$2,020",
+        "6.3"
+      ]
+    ]
+  },
+  {
+    "tab-63": [
+      [
+        "Year",
+        "Gallons",
+        "Average  Price per Gallon",
+        "Aircraft  Fuel Expense",
+        "Percent of Total Operating Expenses"
+      ],
+      [
+        "2019",
+        "4,537",
+        "$2.07",
+        "$9,395",
+        "22.0%"
+      ],
+      [
+        "2018",
+        "4,447",
+        "2.23",
+        "9,896",
+        "23.6%"
+      ]
+    ]
+  },
+  {
+    "tab-64": [
+      [
+        "",
+        "",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025 and Thereafter",
+        "Total"
+      ],
+      [
+        "Airbus",
+        "A320neo Family (2)",
+        "18",
+        "15",
+        "25",
+        "8",
+        "22",
+        "20",
+        "108"
+      ],
+      [
+        "Boeing",
+        "737 MAX Family (3)",
+        "22",
+        "14",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "40",
+        "76"
+      ],
+      [
+        "Boeing",
+        "787 Family",
+        "12",
+        "10",
+        "\u2014",
+        "6",
+        "6",
+        "13",
+        "47"
+      ],
+      [
+        "Embraer",
+        "E175",
+        "14",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "14"
+      ],
+      [
+        "Bombardier",
+        "CRJ900",
+        "3",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "3"
+      ],
+      [
+        "Bombardier",
+        "Total",
+        "69",
+        "39",
+        "25",
+        "14",
+        "28",
+        "73",
+        "248"
+      ]
+    ]
+  },
+  {
+    "tab-68": [
+      [
+        "",
+        "AAG",
+        "AAG",
+        "American",
+        "American"
+      ],
+      [
+        "",
+        "December 31,",
+        "December 31,",
+        "December 31,",
+        "December 31,"
+      ],
+      [
+        "",
+        "2019",
+        "2018",
+        "2019",
+        "2018"
+      ],
+      [
+        "Cash",
+        "$280",
+        "$275",
+        "$267",
+        "$265"
+      ],
+      [
+        "Short-term investments",
+        "3,546",
+        "4,485",
+        "3,543",
+        "4,482"
+      ],
+      [
+        "Undrawn revolving credit facilities (1)",
+        "3,243",
+        "2,843",
+        "3,243",
+        "2,843"
+      ],
+      [
+        "Total available liquidity",
+        "$7,069",
+        "$7,603",
+        "$7,053",
+        "$7,590"
+      ]
+    ]
+  },
+  {
+    "tab-69": [
+      [
+        "Period",
+        "Per share",
+        "For stockholders of record as of",
+        "Payable on",
+        "Total (millions)"
+      ],
+      [
+        "First Quarter",
+        "$0.10",
+        "February 6, 2019",
+        "February 20, 2019",
+        "$46"
+      ],
+      [
+        "Second Quarter",
+        "0.10",
+        "May 8, 2019",
+        "May 22, 2019",
+        "44"
+      ],
+      [
+        "Third Quarter",
+        "0.10",
+        "August 7, 2019",
+        "August 21, 2019",
+        "44"
+      ],
+      [
+        "Fourth Quarter",
+        "0.10",
+        "November 6, 2019",
+        "November 20, 2019",
+        "44"
+      ],
+      [
+        "Total",
+        "$0.40",
+        "",
+        "",
+        "$178"
+      ]
+    ]
+  },
+  {
+    "tab-70": [
+      [
+        "",
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2019",
+        "2018",
+        "2017"
+      ],
+      [
+        "Passenger revenue:",
+        "Passenger travel",
+        "$38,831",
+        "$37,457",
+        "$36,152"
+      ],
+      [
+        "Passenger revenue:",
+        "Loyalty revenue - travel (1)",
+        "3,179",
+        "3,219",
+        "2,979"
+      ],
+      [
+        "Passenger revenue:",
+        "Total passenger revenue",
+        "42,010",
+        "40,676",
+        "39,131"
+      ],
+      [
+        "Passenger revenue:",
+        "Cargo",
+        "863",
+        "1,013",
+        "890"
+      ],
+      [
+        "Other:",
+        "Loyalty revenue - marketing services",
+        "2,361",
+        "2,352",
+        "2,124"
+      ],
+      [
+        "Other:",
+        "Other revenue",
+        "534",
+        "500",
+        "477"
+      ],
+      [
+        "Other:",
+        "Total other revenue",
+        "2,895",
+        "2,852",
+        "2,601"
+      ],
+      [
+        "Other:",
+        "Total operating revenues",
+        "$45,768",
+        "$44,541",
+        "$42,622"
+      ]
+    ]
+  },
+  {
+    "tab-71": [
+      [
+        "",
+        "Pension Benefits",
+        "Pension Benefits",
+        "Retiree Medical and  Other Postretirement Benefits",
+        "Retiree Medical and  Other Postretirement Benefits"
+      ],
+      [
+        "",
+        "2019",
+        "2018",
+        "2019",
+        "2018"
+      ],
+      [
+        "",
+        "(In millions)",
+        "(In millions)",
+        "(In millions)",
+        "(In millions)"
+      ],
+      [
+        "Fair value of plan assets at beginning of period",
+        "$10,053",
+        "$11,395",
+        "$225",
+        "$295"
+      ],
+      [
+        "Actual return (loss) on plan assets",
+        "2,305",
+        "( 1,151 )",
+        "41",
+        "( 24 )"
+      ],
+      [
+        "Employer contributions (3)",
+        "1,230",
+        "475",
+        "12",
+        "35"
+      ],
+      [
+        "Settlements",
+        "( 2 )",
+        "( 4 )",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Benefit payments",
+        "( 689 )",
+        "( 662 )",
+        "( 74 )",
+        "( 81 )"
+      ],
+      [
+        "Fair value of plan assets at end of period",
+        "$12,897",
+        "$10,053",
+        "$204",
+        "$225"
+      ],
+      [
+        "Funded status at end of period",
+        "$ ( 5,461 )",
+        "$ ( 6,325 )",
+        "$ ( 620 )",
+        "$ ( 612 )"
+      ]
+    ]
+  },
+  {
+    "tab-72": [
+      [
+        "",
+        "",
+        "Fair Value Measurements as of December 31, 2018",
+        "Fair Value Measurements as of December 31, 2018",
+        "Fair Value Measurements as of December 31, 2018",
+        "Fair Value Measurements as of December 31, 2018"
+      ],
+      [
+        "",
+        "",
+        "Total",
+        "Level 1",
+        "Level 2",
+        "Level 3"
+      ],
+      [
+        "Short-term investments (1) :",
+        "Money market funds",
+        "$14",
+        "$14",
+        "$\u2014",
+        "$\u2014"
+      ],
+      [
+        "Short-term investments (1) :",
+        "Bank notes/certificates of deposit/time deposits",
+        "2,435",
+        "\u2014",
+        "2,435",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1) :",
+        "Corporate obligations",
+        "1,658",
+        "\u2014",
+        "1,658",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1) :",
+        "Repurchase agreements",
+        "375",
+        "\u2014",
+        "375",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1) :",
+        "",
+        "4,482",
+        "14",
+        "4,468",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1) :",
+        "Restricted cash and short-term investments (1)",
+        "154",
+        "12",
+        "142",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1) :",
+        "Long-term investments (3)",
+        "189",
+        "189",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1) :",
+        "Total",
+        "$4,825",
+        "$215",
+        "$4,610",
+        "$\u2014"
+      ]
+    ]
+  },
+  {
+    "tab-73": [
+      [
+        "Year",
+        "Gallons Consumed (1) (in millions)",
+        "Cost (1)(2)                  (in millions)",
+        "Average Price Per Gallon (1)(2)",
+        "Percentage of Total Operating Expense (1)(2)"
+      ],
+      [
+        "2018",
+        "4,113",
+        "$9,020",
+        "$2.20",
+        "23.0%"
+      ],
+      [
+        "2017",
+        "4,032",
+        "$6,756",
+        "$1.68",
+        "19.2%"
+      ],
+      [
+        "2016",
+        "4,016",
+        "$5,985",
+        "$1.49",
+        "18.3%"
+      ]
+    ]
+  },
+  {
+    "tab-74": [
+      [
+        "Employee Group",
+        "Approximate Number of Active Employees Represented",
+        "Union",
+        "Date on which Collective Bargaining Agreement Becomes Amendable"
+      ],
+      [
+        "Delta Pilots",
+        "13,203",
+        "ALPA",
+        "December 31, 2019"
+      ],
+      [
+        "Delta Flight Superintendents (Dispatchers) (1)",
+        "432",
+        "PAFCA",
+        "March 31, 2018"
+      ],
+      [
+        "Endeavor Air Pilots",
+        "1,976",
+        "ALPA",
+        "January 1, 2024"
+      ],
+      [
+        "Endeavor Air Flight Attendants (1)",
+        "1,307",
+        "AFA",
+        "December 31, 2018"
+      ],
+      [
+        "Endeavor Air Dispatchers (1)",
+        "60",
+        "PAFCA",
+        "December 31, 2018"
+      ]
+    ]
+  },
+  {
+    "tab-75": [
+      [
+        "",
+        "Current Fleet (1)",
+        "Current Fleet (1)",
+        "Current Fleet (1)",
+        "Current Fleet (1)",
+        "",
+        "Commitments",
+        "Commitments"
+      ],
+      [
+        "",
+        "Owned",
+        "Finance Lease",
+        "Operating Lease",
+        "Total",
+        "Average Age",
+        "Purchase",
+        "Options"
+      ],
+      [
+        "B-717-200",
+        "3",
+        "16",
+        "72",
+        "91",
+        "17.3",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "B-737-700",
+        "10",
+        "\u2014",
+        "\u2014",
+        "10",
+        "9.9",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "B-737-800",
+        "73",
+        "4",
+        "\u2014",
+        "77",
+        "17.3",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "B-737-900ER",
+        "73",
+        "\u2014",
+        "39",
+        "112",
+        "2.7",
+        "18",
+        "\u2014"
+      ],
+      [
+        "B-757-200",
+        "89",
+        "9",
+        "2",
+        "100",
+        "21.4",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "B-757-300",
+        "16",
+        "\u2014",
+        "\u2014",
+        "16",
+        "15.9",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "B-767-300",
+        "2",
+        "\u2014",
+        "\u2014",
+        "2",
+        "25.5",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "B-767-300ER",
+        "55",
+        "1",
+        "\u2014",
+        "56",
+        "22.6",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "B-767-400ER",
+        "21",
+        "\u2014",
+        "\u2014",
+        "21",
+        "18.0",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "B-777-200ER",
+        "8",
+        "\u2014",
+        "\u2014",
+        "8",
+        "19.1",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "B-777-200LR",
+        "10",
+        "\u2014",
+        "\u2014",
+        "10",
+        "9.8",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "A220-100",
+        "4",
+        "\u2014",
+        "\u2014",
+        "4",
+        "0.1",
+        "36",
+        "50"
+      ],
+      [
+        "A220-300",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "50",
+        "\u2014"
+      ],
+      [
+        "A319-100",
+        "55",
+        "\u2014",
+        "2",
+        "57",
+        "16.8",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "A320-200",
+        "55",
+        "3",
+        "4",
+        "62",
+        "23.4",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "A321-200",
+        "37",
+        "\u2014",
+        "28",
+        "65",
+        "1.2",
+        "62",
+        "\u2014"
+      ],
+      [
+        "A321-200neo",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "100",
+        "100"
+      ],
+      [
+        "A330-200",
+        "11",
+        "\u2014",
+        "\u2014",
+        "11",
+        "13.8",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "A330-300",
+        "28",
+        "\u2014",
+        "3",
+        "31",
+        "9.9",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "A330-900neo",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "35",
+        "\u2014"
+      ],
+      [
+        "A350-900",
+        "11",
+        "\u2014",
+        "\u2014",
+        "11",
+        "1.0",
+        "14",
+        "\u2014"
+      ],
+      [
+        "MD-88",
+        "71",
+        "13",
+        "\u2014",
+        "84",
+        "28.1",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "MD-90",
+        "43",
+        "\u2014",
+        "\u2014",
+        "43",
+        "21.8",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Total",
+        "675",
+        "46",
+        "150",
+        "871",
+        "16.0",
+        "315",
+        "150"
+      ]
+    ]
+  },
+  {
+    "tab-76": [
+      [
+        "",
+        "Fleet Type",
+        "Fleet Type",
+        "Fleet Type",
+        "Fleet Type",
+        "Fleet Type",
+        ""
+      ],
+      [
+        "",
+        "CRJ-200",
+        "CRJ-700",
+        "CRJ-900",
+        "Embraer 170",
+        "Embraer 175",
+        "Total"
+      ],
+      [
+        "Endeavor Air, Inc. (1)",
+        "42",
+        "3",
+        "109",
+        "\u2014",
+        "\u2014",
+        "154"
+      ],
+      [
+        "SkyWest Airlines, Inc.",
+        "77",
+        "22",
+        "41",
+        "\u2014",
+        "49",
+        "189"
+      ],
+      [
+        "Compass Airlines, LLC",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "36",
+        "36"
+      ],
+      [
+        "Republic Airline, Inc.",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "21",
+        "16",
+        "37"
+      ],
+      [
+        "GoJet Airlines, LLC",
+        "\u2014",
+        "22",
+        "7",
+        "\u2014",
+        "\u2014",
+        "29"
+      ],
+      [
+        "Total",
+        "119",
+        "47",
+        "157",
+        "21",
+        "101",
+        "445"
+      ]
+    ]
+  },
+  {
+    "tab-77": [
+      [
+        "",
+        "Delivery in Calendar Years Ending",
+        "Delivery in Calendar Years Ending",
+        "Delivery in Calendar Years Ending",
+        "Delivery in Calendar Years Ending",
+        "Delivery in Calendar Years Ending"
+      ],
+      [
+        "",
+        "2019",
+        "2020",
+        "2021",
+        "After 2021",
+        "Total"
+      ],
+      [
+        "A220-100",
+        "24",
+        "12",
+        "\u2014",
+        "\u2014",
+        "36"
+      ],
+      [
+        "A220-300",
+        "\u2014",
+        "6",
+        "12",
+        "32",
+        "50"
+      ],
+      [
+        "A321-200",
+        "32",
+        "27",
+        "3",
+        "\u2014",
+        "62"
+      ],
+      [
+        "A321-200neo",
+        "\u2014",
+        "16",
+        "36",
+        "48",
+        "100"
+      ],
+      [
+        "A330-900neo",
+        "4",
+        "4",
+        "9",
+        "18",
+        "35"
+      ],
+      [
+        "A350-900",
+        "2",
+        "2",
+        "\u2014",
+        "10",
+        "14"
+      ],
+      [
+        "B-737-900ER",
+        "18",
+        "\u2014",
+        "\u2014",
+        "\u2014",
+        "18"
+      ],
+      [
+        "CRJ-900",
+        "7",
+        "8",
+        "\u2014",
+        "\u2014",
+        "15"
+      ],
+      [
+        "Total",
+        "87",
+        "75",
+        "60",
+        "108",
+        "330"
+      ]
+    ]
+  },
+  {
+    "tab-78": [
+      [
+        "",
+        "Total Number of Shares Purchased",
+        "Average Price Paid Per Share",
+        "Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs",
+        "Approximate Dollar Value (in millions) of Shares That May Yet Be Purchased Under the Plan or Programs"
+      ],
+      [
+        "October 2018",
+        "1,538,432",
+        "$53.25",
+        "1,538,432",
+        "$3,350"
+      ],
+      [
+        "November 2018",
+        "2,188,178",
+        "$56.38",
+        "2,188,178",
+        "$3,225"
+      ],
+      [
+        "December 2018",
+        "2,221,305",
+        "$54.22",
+        "2,221,305",
+        "$3,100"
+      ],
+      [
+        "Total",
+        "5,947,915",
+        "",
+        "5,947,915",
+        ""
+      ]
+    ]
+  },
+  {
+    "tab-79": [
+      [
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "Operating revenue",
+        "$44,438",
+        "$41,138",
+        "$39,450",
+        "$40,704",
+        "$40,362"
+      ],
+      [
+        "Operating expense",
+        "39,174",
+        "35,172",
+        "32,454",
+        "32,902",
+        "38,156"
+      ],
+      [
+        "Operating income",
+        "5,264",
+        "5,966",
+        "6,996",
+        "7,802",
+        "2,206"
+      ],
+      [
+        "Non-operating expense, net",
+        "(113)",
+        "(466)",
+        "(643)",
+        "(645)",
+        "(1,134)"
+      ],
+      [
+        "Income before income taxes",
+        "5,151",
+        "5,500",
+        "6,353",
+        "7,157",
+        "1,072"
+      ],
+      [
+        "Income tax (provision) benefit",
+        "(1,216)",
+        "(2,295)",
+        "(2,158)",
+        "(2,631)",
+        "(413)"
+      ],
+      [
+        "Net income",
+        "$3,935",
+        "$3,205",
+        "$4,195",
+        "$4,526",
+        "$659"
+      ],
+      [
+        "Basic earnings per share",
+        "$5.69",
+        "$4.45",
+        "$5.59",
+        "$5.68",
+        "$0.79"
+      ],
+      [
+        "Diluted earnings per share",
+        "$5.67",
+        "$4.43",
+        "$5.55",
+        "$5.63",
+        "$0.78"
+      ],
+      [
+        "Cash dividends declared per share",
+        "$1.31",
+        "$1.02",
+        "$0.68",
+        "$0.45",
+        "$0.30"
+      ]
+    ]
+  },
+  {
+    "tab-80": [
+      [
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "Revenue passenger miles (in millions)",
+        "225,243",
+        "217,712",
+        "213,098",
+        "209,625",
+        "202,925"
+      ],
+      [
+        "Available seat miles (in millions)",
+        "263,365",
+        "254,325",
+        "251,867",
+        "246,764",
+        "239,676"
+      ],
+      [
+        "Passenger mile yield",
+        "17.65\u00a2",
+        "16.97\u00a2",
+        "16.81\u00a2",
+        "16.59\u00a2",
+        "17.22\u00a2"
+      ],
+      [
+        "Passenger revenue per available seat mile",
+        "15.09\u00a2",
+        "14.53\u00a2",
+        "14.22\u00a2",
+        "14.10\u00a2",
+        "14.58\u00a2"
+      ],
+      [
+        "Total revenue per available seat mile",
+        "16.87\u00a2",
+        "16.18\u00a2",
+        "15.66\u00a2",
+        "16.50\u00a2",
+        "16.84\u00a2"
+      ],
+      [
+        "Operating cost per available seat mile",
+        "14.87\u00a2",
+        "13.83\u00a2",
+        "12.89\u00a2",
+        "13.33\u00a2",
+        "15.92\u00a2"
+      ],
+      [
+        "Passenger load factor",
+        "85.5%",
+        "85.6%",
+        "84.6%",
+        "84.9%",
+        "84.7%"
+      ],
+      [
+        "Fuel gallons consumed (in millions)",
+        "4,113",
+        "4,032",
+        "4,016",
+        "3,988",
+        "3,893"
+      ],
+      [
+        "Average price per fuel gallon (2)",
+        "$2.20",
+        "$1.68",
+        "$1.49",
+        "$1.90",
+        "$3.47"
+      ],
+      [
+        "Full-time equivalent employees, end of period",
+        "88,680",
+        "86,564",
+        "83,756",
+        "82,949",
+        "79,655"
+      ]
+    ]
+  },
+  {
+    "tab-81": [
+      [
+        "Year",
+        "Gallons",
+        "Average  Price per Gallon",
+        "Aircraft  Fuel Expense",
+        "Percent of Total Operating Expenses"
+      ],
+      [
+        "2018",
+        "4,447",
+        "$2.23",
+        "$9,896",
+        "23.6%"
+      ],
+      [
+        "2017",
+        "4,352",
+        "1.73",
+        "7,510",
+        "19.6%"
+      ],
+      [
+        "2016",
+        "4,347",
+        "1.42",
+        "6,180",
+        "17.6%"
+      ]
+    ]
+  },
+  {
+    "tab-86": [
+      [
+        "",
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "Passenger revenue:",
+        "Passenger travel",
+        "$37,457",
+        "$36,152",
+        "$34,278"
+      ],
+      [
+        "Passenger revenue:",
+        "Loyalty revenue - travel (1)",
+        "3,219",
+        "2,979",
+        "2,767"
+      ],
+      [
+        "Passenger revenue:",
+        "Total passenger revenue",
+        "40,676",
+        "39,131",
+        "37,045"
+      ],
+      [
+        "Passenger revenue:",
+        "Cargo",
+        "1,013",
+        "890",
+        "785"
+      ],
+      [
+        "Other:",
+        "Loyalty revenue - marketing services",
+        "2,352",
+        "2,124",
+        "1,872"
+      ],
+      [
+        "Other:",
+        "Other revenue",
+        "500",
+        "477",
+        "440"
+      ],
+      [
+        "Other:",
+        "Total other revenue",
+        "2,852",
+        "2,601",
+        "2,312"
+      ],
+      [
+        "Other:",
+        "Total operating revenues",
+        "$44,541",
+        "$42,622",
+        "$40,142"
+      ]
+    ]
+  },
+  {
+    "tab-87": [
+      [
+        "",
+        "December 31, 2018",
+        "December 31, 2018"
+      ],
+      [
+        "",
+        "Operating Leases",
+        "Finance Leases"
+      ],
+      [
+        "2019",
+        "$1,912",
+        "$124"
+      ],
+      [
+        "2020",
+        "1,838",
+        "120"
+      ],
+      [
+        "2021",
+        "1,636",
+        "118"
+      ],
+      [
+        "2022",
+        "1,438",
+        "122"
+      ],
+      [
+        "2023",
+        "1,255",
+        "105"
+      ],
+      [
+        "2024 and thereafter",
+        "3,620",
+        "282"
+      ],
+      [
+        "Total lease payments",
+        "11,699",
+        "871"
+      ],
+      [
+        "Less: Imputed interest",
+        "(2,143)",
+        "(177)"
+      ],
+      [
+        "Total lease obligations",
+        "9,556",
+        "694"
+      ],
+      [
+        "Less: Current obligations",
+        "(1,654)",
+        "(81)"
+      ],
+      [
+        "Long-term lease obligations",
+        "$7,902",
+        "$613"
+      ]
+    ]
+  },
+  {
+    "tab-88": [
+      [
+        "",
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "Current income tax provision:",
+        "State and Local",
+        "$3",
+        "$10",
+        "$3"
+      ],
+      [
+        "Current income tax provision:",
+        "Foreign",
+        "29",
+        "14",
+        "9"
+      ],
+      [
+        "Current income tax provision:",
+        "Current income tax provision",
+        "32",
+        "24",
+        "12"
+      ],
+      [
+        "Deferred income tax provision:",
+        "Federal",
+        "390",
+        "2,026",
+        "1,456"
+      ],
+      [
+        "Deferred income tax provision:",
+        "State and Local",
+        "50",
+        "63",
+        "100"
+      ],
+      [
+        "Deferred income tax provision:",
+        "Deferred income tax provision",
+        "440",
+        "2,089",
+        "1,556"
+      ],
+      [
+        "Deferred income tax provision:",
+        "Total income tax provision",
+        "$472",
+        "$2,113",
+        "$1,568"
+      ]
+    ]
+  },
+  {
+    "tab-89": [
+      [
+        "",
+        "",
+        "Fair Value Measurements as of December 31, 2018",
+        "Fair Value Measurements as of December 31, 2018",
+        "Fair Value Measurements as of December 31, 2018",
+        "Fair Value Measurements as of December 31, 2018"
+      ],
+      [
+        "",
+        "",
+        "Total",
+        "Level 1",
+        "Level 2",
+        "Level 3"
+      ],
+      [
+        "Short-term investments (1)   (2) :",
+        "Money market funds",
+        "$16",
+        "$16",
+        "$\u2014",
+        "$\u2014"
+      ],
+      [
+        "Short-term investments (1)   (2) :",
+        "Corporate obligations",
+        "1,658",
+        "\u2014",
+        "1,658",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1)   (2) :",
+        "Bank notes/certificates of deposit/time deposits",
+        "2,436",
+        "\u2014",
+        "2,436",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1)   (2) :",
+        "Repurchase agreements",
+        "375",
+        "\u2014",
+        "375",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1)   (2) :",
+        "",
+        "4,485",
+        "16",
+        "4,469",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1)   (2) :",
+        "Restricted cash and short-term investments (1)",
+        "154",
+        "12",
+        "142",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1)   (2) :",
+        "Long-term investments (3)",
+        "189",
+        "189",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Short-term investments (1)   (2) :",
+        "Total",
+        "$4,828",
+        "$217",
+        "$4,611",
+        "$\u2014"
+      ]
+    ]
+  },
+  {
+    "tab-92": [
+      [
+        "",
+        "Year Ended December 31,",
+        "Year Ended December 31,",
+        "Year Ended December 31,"
+      ],
+      [
+        "",
+        "2018",
+        "2017",
+        "2016"
+      ],
+      [
+        "Fleet restructuring expenses (1)",
+        "$422",
+        "$232",
+        "$177"
+      ],
+      [
+        "Merger integration expenses (2)",
+        "268",
+        "273",
+        "514"
+      ],
+      [
+        "Severance expenses (3)",
+        "58",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Litigation settlement (4)",
+        "45",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Intangible asset impairment (5)",
+        "26",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Labor contract expenses",
+        "13",
+        "46",
+        "\u2014"
+      ],
+      [
+        "Mark-to-market adjustments on bankruptcy obligations, net (6)",
+        "(76)",
+        "27",
+        "25"
+      ],
+      [
+        "Employee 2017 Tax Act bonus expense (7)",
+        "\u2014",
+        "123",
+        "\u2014"
+      ],
+      [
+        "Other operating charges (credits), net",
+        "31",
+        "11",
+        "(7)"
+      ],
+      [
+        "Mainline operating special items, net",
+        "787",
+        "712",
+        "709"
+      ],
+      [
+        "Regional operating special items, net",
+        "\u2014",
+        "3",
+        "13"
+      ],
+      [
+        "Operating special items, net",
+        "787",
+        "715",
+        "722"
+      ],
+      [
+        "Mark-to-market adjustments on equity investments, net (8)",
+        "104",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Debt refinancing and extinguishment charges",
+        "13",
+        "22",
+        "49"
+      ],
+      [
+        "Other nonoperating credits, net",
+        "(4)",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Nonoperating special items, net",
+        "113",
+        "22",
+        "49"
+      ],
+      [
+        "Income tax special items (9)",
+        "18",
+        "\u2014",
+        "\u2014"
+      ],
+      [
+        "Impact of the 2017 Tax Act (10)",
+        "\u2014",
+        "924",
+        "\u2014"
+      ],
+      [
+        "Income tax special items, net",
+        "18",
+        "924",
+        "\u2014"
+      ]
+    ]
+  },
+  {
+    "tab-94": [
+      [
+        "",
+        "2017",
+        "2016 (a)",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "Mainline passenger revenue",
+        "74%",
+        "69%",
+        "70%",
+        "70%",
+        "70%"
+      ],
+      [
+        "Regional passenger revenue",
+        "12%",
+        "15%",
+        "15%",
+        "15%",
+        "16%"
+      ],
+      [
+        "Other revenue",
+        "13%",
+        "14%",
+        "13%",
+        "13%",
+        "12%"
+      ],
+      [
+        "Freight and Mail revenue",
+        "1%",
+        "2%",
+        "2%",
+        "2%",
+        "2%"
+      ],
+      [
+        "Total",
+        "100%",
+        "100%",
+        "100%",
+        "100%",
+        "100%"
+      ]
+    ]
+  },
+  {
+    "tab-95": [
+      [
+        "",
+        "2017",
+        "2016 (a)",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "West Coast",
+        "24%",
+        "30%",
+        "31%",
+        "31%",
+        "28%"
+      ],
+      [
+        "Transcon/midcon",
+        "45%",
+        "30%",
+        "27%",
+        "25%",
+        "25%"
+      ],
+      [
+        "Hawaii",
+        "15%",
+        "19%",
+        "20%",
+        "20%",
+        "21%"
+      ],
+      [
+        "Alaska",
+        "11%",
+        "15%",
+        "16%",
+        "16%",
+        "18%"
+      ],
+      [
+        "Mexico",
+        "5%",
+        "6%",
+        "6%",
+        "7%",
+        "7%"
+      ],
+      [
+        "Canada",
+        "\u2014%",
+        "\u2014%",
+        "\u2014%",
+        "1%",
+        "1%"
+      ],
+      [
+        "Total",
+        "100%",
+        "100%",
+        "100%",
+        "100%",
+        "100%"
+      ],
+      [
+        "Average Stage Length",
+        "1,301",
+        "1,225",
+        "1,195",
+        "1,182",
+        "1,177"
+      ]
+    ]
+  },
+  {
+    "tab-96": [
+      [
+        "",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "West Coast",
+        "59%",
+        "60%",
+        "62%",
+        "66%",
+        "66%"
+      ],
+      [
+        "Pacific Northwest",
+        "13%",
+        "16%",
+        "19%",
+        "19%",
+        "21%"
+      ],
+      [
+        "Canada",
+        "4%",
+        "5%",
+        "7%",
+        "8%",
+        "9%"
+      ],
+      [
+        "Alaska",
+        "3%",
+        "4%",
+        "5%",
+        "4%",
+        "2%"
+      ],
+      [
+        "Midcon",
+        "21%",
+        "15%",
+        "6%",
+        "2%",
+        "1%"
+      ],
+      [
+        "Mexico",
+        "\u2014%",
+        "\u2014%",
+        "1%",
+        "1%",
+        "1%"
+      ],
+      [
+        "Total",
+        "100%",
+        "100%",
+        "100%",
+        "100%",
+        "100%"
+      ],
+      [
+        "Average Stage Length",
+        "422",
+        "381",
+        "348",
+        "339",
+        "329"
+      ]
+    ]
+  },
+  {
+    "tab-99": [
+      [
+        "",
+        "2017",
+        "2016 (a)",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "Crude oil",
+        "66%",
+        "69%",
+        "62%",
+        "72%",
+        "71%"
+      ],
+      [
+        "Refining margins",
+        "23%",
+        "20%",
+        "26%",
+        "18%",
+        "19%"
+      ],
+      [
+        "Other (b)",
+        "11%",
+        "11%",
+        "12%",
+        "10%",
+        "10%"
+      ],
+      [
+        "Total",
+        "100%",
+        "100%",
+        "100%",
+        "100%",
+        "100%"
+      ],
+      [
+        "Aircraft fuel expense",
+        "22%",
+        "18%",
+        "22%",
+        "32%",
+        "34%"
+      ]
+    ]
+  },
+  {
+    "tab-100": [
+      [
+        "",
+        "2017",
+        "2016 (a)",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "Direct to customer",
+        "62%",
+        "61%",
+        "60%",
+        "57%",
+        "55%"
+      ],
+      [
+        "Traditional agencies",
+        "22%",
+        "23%",
+        "23%",
+        "25%",
+        "27%"
+      ],
+      [
+        "Online travel agencies",
+        "11%",
+        "11%",
+        "11%",
+        "12%",
+        "13%"
+      ],
+      [
+        "Reservation call centers",
+        "5%",
+        "5%",
+        "6%",
+        "6%",
+        "5%"
+      ],
+      [
+        "Total",
+        "100%",
+        "100%",
+        "100%",
+        "100%",
+        "100%"
+      ]
+    ]
+  },
+  {
+    "tab-101": [
+      [
+        "Union",
+        "Employee Group",
+        "Number of Employees",
+        "Contract Status"
+      ],
+      [
+        "Air Line Pilots Association, International (ALPA)",
+        "Pilots",
+        "1,970",
+        "Amendable 4/1/2020"
+      ],
+      [
+        "Association of Flight Attendants (AFA)",
+        "Flight attendants",
+        "4,392",
+        "Amendable 12/17/2019"
+      ],
+      [
+        "International Association of Machinists and Aerospace Workers (IAM)",
+        "Ramp service and stock clerks",
+        "673",
+        "Amendable 7/19/2018"
+      ],
+      [
+        "IAM",
+        "Clerical, office and passenger service",
+        "3,733",
+        "Amendable 1/1/2019"
+      ],
+      [
+        "Aircraft Mechanics Fraternal Association (AMFA)",
+        "Mechanics, inspectors and cleaners",
+        "706",
+        "Amendable 10/17/2021"
+      ],
+      [
+        "Mexico Workers Association of Air Transport",
+        "Mexico airport personnel",
+        "106",
+        "Amendable 2/1/2018"
+      ],
+      [
+        "Transport Workers Union of America (TWU)",
+        "Dispatchers",
+        "52",
+        "Amendable 3/24/2019"
+      ]
+    ]
+  },
+  {
+    "tab-102": [
+      [
+        "",
+        "Position",
+        "Age",
+        "Air Group or Subsidiary Officer Since"
+      ],
+      [
+        "Bradley D. Tilden",
+        "Chairman and Chief Executive Officer of Alaska Air Group, Inc., Chairman of Alaska Airlines, Inc. and Virgin America Inc., Chairman of Horizon Air Industries, Inc.",
+        "57",
+        "1994"
+      ],
+      [
+        "Benito Minicucci",
+        "President and Chief Operating Officer of Alaska Airlines, Inc. and Chief Executive Officer of Virgin America Inc.",
+        "51",
+        "2004"
+      ],
+      [
+        "Brandon S. Pedersen",
+        "Executive Vice President/Finance and Chief Financial Officer of Alaska Air Group, Inc. and Alaska Airlines, Inc., and Chief Financial Officer of Virgin America Inc.",
+        "51",
+        "2003"
+      ],
+      [
+        "Andrew R. Harrison",
+        "Executive Vice President and Chief Commercial Officer of Alaska Airlines, Inc.",
+        "47",
+        "2008"
+      ],
+      [
+        "Kyle B. Levine",
+        "Vice President Legal, General Counsel and Corporate Secretary of Alaska Air Group, Inc. and Alaska Airlines, Inc. and Chief Ethics and Compliance Officer of Alaska Air Group, Inc.",
+        "46",
+        "2016"
+      ],
+      [
+        "David L. Campbell",
+        "Former President and Chief Executive Officer of Horizon Air Industries, Inc.",
+        "56",
+        "2014"
+      ],
+      [
+        "Gary L. Beck",
+        "President and Chief Executive Officer of Horizon Air Industries, Inc.",
+        "70",
+        "2018"
+      ],
+      [
+        "Peter D. Hunt",
+        "President and Chief Operating Officer of Virgin America Inc.",
+        "48",
+        "2017"
+      ],
+      [
+        "Shane R. Tackett",
+        "Senior Vice President, Revenue and E-commerce of Alaska Airlines, Inc.",
+        "39",
+        "2017"
+      ],
+      [
+        "Andrea L. Schneider",
+        "Vice President People of Alaska Airlines, Inc.",
+        "52",
+        "2017"
+      ],
+      [
+        "Diana Birkett Rakow",
+        "Vice President External Relations of Alaska Airlines, Inc.",
+        "40",
+        "2017"
+      ]
+    ]
+  },
+  {
+    "tab-103": [
+      [
+        "",
+        "Seats",
+        "Owned",
+        "Leased",
+        "Total",
+        "Average Age in Years"
+      ],
+      [
+        "B737 Freighters",
+        "\u2014",
+        "3",
+        "\u2014",
+        "3",
+        "17.5"
+      ],
+      [
+        "B737 NextGen",
+        "124-181",
+        "141",
+        "10",
+        "151",
+        "7.5"
+      ],
+      [
+        "A319",
+        "119",
+        "\u2014",
+        "10",
+        "10",
+        "10.2"
+      ],
+      [
+        "A320",
+        "146-149",
+        "10",
+        "43",
+        "53",
+        "7.3"
+      ],
+      [
+        "A321neo",
+        "185",
+        "\u2014",
+        "4",
+        "4",
+        "0.4"
+      ],
+      [
+        "Total Mainline Fleet",
+        "",
+        "154",
+        "67",
+        "221",
+        "7.6"
+      ],
+      [
+        "Q400",
+        "76",
+        "35",
+        "15",
+        "50",
+        "11.0"
+      ],
+      [
+        "E175",
+        "76",
+        "10",
+        "23",
+        "33",
+        "1.2"
+      ],
+      [
+        "Total Regional Fleet",
+        "",
+        "45",
+        "38",
+        "83",
+        "7.1"
+      ],
+      [
+        "Total",
+        "",
+        "199",
+        "105",
+        "304",
+        "7.4"
+      ]
+    ]
+  },
+  {
+    "tab-104": [
+      [
+        "",
+        "2017",
+        "2017",
+        "2016",
+        "2016"
+      ],
+      [
+        "",
+        "High",
+        "Low",
+        "High",
+        "Low"
+      ],
+      [
+        "First Quarter",
+        "$101.43",
+        "$86.22",
+        "$83.05",
+        "$61.58"
+      ],
+      [
+        "Second Quarter",
+        "93.16",
+        "82.03",
+        "83.09",
+        "54.53"
+      ],
+      [
+        "Third Quarter",
+        "95.75",
+        "71.17",
+        "71.57",
+        "56.47"
+      ],
+      [
+        "Fourth Quarter",
+        "82.68",
+        "61.10",
+        "91.88",
+        "65.60"
+      ]
+    ]
+  },
+  {
+    "tab-105": [
+      [
+        "",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,",
+        "Change",
+        "Change"
+      ],
+      [
+        "",
+        "2017",
+        "2016 as Reported",
+        "2016 Pre-acquisition Virgin America",
+        "2016 Combined",
+        "$ Combined",
+        "% Combined"
+      ],
+      [
+        "Wages",
+        "$1,468",
+        "$1,022",
+        "$224",
+        "$1,246",
+        "$222",
+        "17.8%"
+      ],
+      [
+        "Medical and other benefits",
+        "216",
+        "192",
+        "23",
+        "215",
+        "1",
+        "0.5%"
+      ],
+      [
+        "Defined contribution plans",
+        "103",
+        "67",
+        "22",
+        "89",
+        "14",
+        "15.7%"
+      ],
+      [
+        "Pension\u2014Defined benefit plans",
+        "32",
+        "25",
+        "\u2014",
+        "25",
+        "7",
+        "28.0%"
+      ],
+      [
+        "Payroll taxes",
+        "105",
+        "76",
+        "15",
+        "91",
+        "14",
+        "15.4%"
+      ],
+      [
+        "Total wages and benefits",
+        "$1,924",
+        "$1,382",
+        "$284",
+        "$1,666",
+        "$258",
+        "15.5%"
+      ]
+    ]
+  },
+  {
+    "tab-106": [
+      [
+        "",
+        "",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,",
+        "Twelve Months Ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2016",
+        "2015",
+        "% Change"
+      ],
+      [
+        "Passenger",
+        "Mainline",
+        "$4,098",
+        "$3,939",
+        "4.0%"
+      ],
+      [
+        "Passenger",
+        "Regional",
+        "908",
+        "854",
+        "6.3%"
+      ],
+      [
+        "Passenger",
+        "Total passenger revenue",
+        "$5,006",
+        "$4,793",
+        "4.4%"
+      ],
+      [
+        "Passenger",
+        "Freight and mail",
+        "108",
+        "108",
+        "\u2014%"
+      ],
+      [
+        "Passenger",
+        "Other\u2014net",
+        "817",
+        "697",
+        "17.2%"
+      ],
+      [
+        "Passenger",
+        "Total operating revenues",
+        "$5,931",
+        "$5,598",
+        "5.9%"
+      ]
+    ]
+  },
+  {
+    "tab-107": [
+      [
+        "",
+        "2017",
+        "2016"
+      ],
+      [
+        "Fixed-rate notes payable due through 2028",
+        "$959",
+        "$1,179"
+      ],
+      [
+        "Variable-rate notes payable due through 2028",
+        "1,625",
+        "1,803"
+      ],
+      [
+        "Less debt issuance costs",
+        "(15)",
+        "(18)"
+      ],
+      [
+        "Total debt",
+        "2,569",
+        "2,964"
+      ],
+      [
+        "Less current portion",
+        "307",
+        "319"
+      ],
+      [
+        "Long-term debt, less current portion",
+        "$2,262",
+        "$2,645"
+      ],
+      [
+        "Weighted-average fixed-interest rate",
+        "4.2%",
+        "4.4%"
+      ],
+      [
+        "Weighted-average variable-interest rate",
+        "2.8%",
+        "2.4%"
+      ]
+    ]
+  },
+  {
+    "tab-108": [
+      [
+        "Year",
+        "Cost (Millions)",
+        "Average Cost Per Gallon",
+        "Percentage of     Operating Expenses"
+      ],
+      [
+        "2003",
+        "$920",
+        "$0.80",
+        "16.5%"
+      ],
+      [
+        "2004",
+        "$1,106",
+        "$0.92",
+        "18.1%"
+      ],
+      [
+        "2005",
+        "$1,470",
+        "$1.13",
+        "21.4%"
+      ],
+      [
+        "2006",
+        "$2,284",
+        "$1.64",
+        "28.0%"
+      ],
+      [
+        "2007",
+        "$2,690",
+        "$1.80",
+        "29.7%"
+      ],
+      [
+        "2008",
+        "$3,713",
+        "$2.44",
+        "35.1%"
+      ],
+      [
+        "2009",
+        "$3,044",
+        "$2.12",
+        "30.2%"
+      ],
+      [
+        "2010",
+        "$3,620",
+        "$2.51",
+        "32.6%"
+      ],
+      [
+        "2011",
+        "$5,644",
+        "$3.19",
+        "37.7%"
+      ],
+      [
+        "2012",
+        "$6,120",
+        "$3.30",
+        "37.2%"
+      ],
+      [
+        "2013",
+        "$5,763",
+        "$3.16",
+        "35.1%"
+      ],
+      [
+        "2014",
+        "$5,293",
+        "$2.93",
+        "32.3%"
+      ],
+      [
+        "2015",
+        "$3,616",
+        "$1.90",
+        "23.0%"
+      ],
+      [
+        "2016",
+        "$3,647",
+        "$1.82",
+        "21.9%"
+      ],
+      [
+        "2017",
+        "$3,940",
+        "$1.92",
+        "22.3%"
+      ],
+      [
+        "First Quarter 2017",
+        "$922",
+        "$1.89",
+        "21.8%"
+      ],
+      [
+        "Second Quarter 2017",
+        "$990",
+        "$1.84",
+        "22.0%"
+      ],
+      [
+        "Third Quarter 2017",
+        "$1,003",
+        "$1.92",
+        "22.6%"
+      ],
+      [
+        "Fourth Quarter 2017",
+        "$1,025",
+        "$2.04",
+        "22.8%"
+      ]
+    ]
+  },
+  {
+    "tab-109": [
+      [
+        "",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,"
+      ],
+      [
+        "",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "Available seat miles per fuel gallon consumed",
+        "75.2",
+        "74.4",
+        "73.9",
+        "72.8",
+        "71.7"
+      ]
+    ]
+  },
+  {
+    "tab-110": [
+      [
+        "Employee Group",
+        "Approximate Number of Employees",
+        "Representatives",
+        "Status of Agreement"
+      ],
+      [
+        "Southwest Pilots",
+        "8,600",
+        "Southwest Airlines Pilots' Association (\"SWAPA\")",
+        "Amendable September 2020"
+      ],
+      [
+        "Southwest Flight Attendants",
+        "14,500",
+        "Transportation Workers of America, AFL-CIO, Local 556 (\"TWU 556\")",
+        "Amendable November 2018"
+      ],
+      [
+        "Southwest Ramp, Operations, Provisioning, Freight Agents",
+        "12,800",
+        "Transportation Workers of America, AFL-CIO, Local 555 (\"TWU 555\")",
+        "Amendable February 2021"
+      ],
+      [
+        "Southwest Customer Service Agents, Customer Representatives, and Source of Support Representatives",
+        "7,400",
+        "International Association of Machinists and Aerospace Workers, AFL-CIO (\"IAM 142\")",
+        "Amendable December 2018"
+      ],
+      [
+        "Southwest Material Specialists (formerly known as Stock Clerks)",
+        "300",
+        "International Brotherhood of Teamsters, Local 19 (\"IBT 19\")",
+        "In negotiations"
+      ],
+      [
+        "Southwest Mechanics",
+        "2,400",
+        "Aircraft Mechanics Fraternal Association (\"AMFA\")",
+        "In negotiations"
+      ],
+      [
+        "Southwest Aircraft Appearance Technicians",
+        "200",
+        "AMFA",
+        "Amendable November 2020"
+      ],
+      [
+        "Southwest Facilities Maintenance Technicians",
+        "40",
+        "AMFA",
+        "Amendable November 2022"
+      ],
+      [
+        "Southwest Dispatchers",
+        "350",
+        "Transportation Workers of America, AFL-CIO, Local 550 (\"TWU 550\")",
+        "Amendable June 2019"
+      ],
+      [
+        "Southwest Flight Simulator Technicians",
+        "50",
+        "International Brotherhood of Teamsters (\"IBT\")",
+        "Amendable May 2019"
+      ],
+      [
+        "Southwest Flight Crew Training Instructors",
+        "120",
+        "Transportation Workers of America, AFL-CIO, Local 557 (\"TWU 557\")",
+        "Amendable January 2020"
+      ],
+      [
+        "Southwest Meteorologists",
+        "10",
+        "TWU 550",
+        "Amendable June 2019"
+      ]
+    ]
+  },
+  {
+    "tab-111": [
+      [
+        "Type",
+        "Seats",
+        "Average Age (Yrs)",
+        "Number of Aircraft",
+        "Number Owned (a)",
+        "Number Leased"
+      ],
+      [
+        "737-700",
+        "143",
+        "14",
+        "512",
+        "397",
+        "115"
+      ],
+      [
+        "737-800",
+        "175",
+        "3",
+        "181",
+        "174",
+        "7"
+      ],
+      [
+        "737 MAX 8",
+        "175",
+        "\u2014",
+        "13",
+        "13",
+        "\u2014"
+      ],
+      [
+        "Totals",
+        "",
+        "11",
+        "706",
+        "584",
+        "122"
+      ]
+    ]
+  },
+  {
+    "tab-112": [
+      [
+        "",
+        "",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,",
+        "Year ended December 31,"
+      ],
+      [
+        "",
+        "",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Operating revenues",
+        "$21,171",
+        "$20,425",
+        "$19,820",
+        "$18,605",
+        "$17,699"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Operating expenses",
+        "17,656",
+        "16,665",
+        "15,704",
+        "16,380",
+        "16,421"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Operating income",
+        "3,515",
+        "3,760",
+        "4,116",
+        "2,225",
+        "1,278"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Other expenses (income) net",
+        "264",
+        "213",
+        "637",
+        "409",
+        "69"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Income before taxes",
+        "3,251",
+        "3,547",
+        "3,479",
+        "1,816",
+        "1,209"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Provision for income taxes",
+        "(237)",
+        "1,303",
+        "1,298",
+        "680",
+        "455"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Net income",
+        "$3,488",
+        "$2,244",
+        "$2,181",
+        "$1,136",
+        "$754"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Net income per share, basic",
+        "$5.80",
+        "$3.58",
+        "$3.30",
+        "$1.65",
+        "$1.06"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Net income per share, diluted",
+        "$5.79",
+        "$3.55",
+        "$3.27",
+        "$1.64",
+        "$1.05"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Cash dividends per common share",
+        "$0.4750",
+        "$0.3750",
+        "$0.2850",
+        "$0.2200",
+        "$0.1300"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Total assets at period-end",
+        "$25,110",
+        "$23,286",
+        "$21,312",
+        "$19,723",
+        "$19,177"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Long-term obligations at period-end",
+        "$3,320",
+        "$2,821",
+        "$2,541",
+        "$2,434",
+        "$2,191"
+      ],
+      [
+        "Financial Data (in millions, except per share amounts):",
+        "Stockholders\u2019 equity at period-end",
+        "$10,430",
+        "$8,441",
+        "$7,358",
+        "$6,775",
+        "$7,336"
+      ],
+      [
+        "Operating Data:",
+        "Revenue passengers carried",
+        "130,256,190",
+        "124,719,765",
+        "118,171,211",
+        "110,496,912",
+        "108,075,976"
+      ],
+      [
+        "Operating Data:",
+        "Enplaned passengers",
+        "157,677,218",
+        "151,740,357",
+        "144,574,882",
+        "135,767,188",
+        "133,155,030"
+      ],
+      [
+        "Operating Data:",
+        "Revenue passenger miles (RPMs) (000s) (a)",
+        "129,041,420",
+        "124,797,986",
+        "117,499,879",
+        "108,035,133",
+        "104,348,216"
+      ],
+      [
+        "Operating Data:",
+        "Available seat miles (ASMs) (000s) (b)",
+        "153,811,072",
+        "148,522,051",
+        "140,501,409",
+        "131,003,957",
+        "130,344,072"
+      ],
+      [
+        "Operating Data:",
+        "Load factor (c)",
+        "83.9%",
+        "84.0%",
+        "83.6%",
+        "82.5%",
+        "80.1%"
+      ],
+      [
+        "Operating Data:",
+        "Average length of passenger haul (miles)",
+        "991",
+        "1,001",
+        "994",
+        "978",
+        "966"
+      ],
+      [
+        "Operating Data:",
+        "Average aircraft stage length (miles)",
+        "754",
+        "760",
+        "750",
+        "721",
+        "703"
+      ],
+      [
+        "Operating Data:",
+        "Trips flown",
+        "1,347,893",
+        "1,311,149",
+        "1,267,358",
+        "1,255,502",
+        "1,312,785"
+      ],
+      [
+        "Operating Data:",
+        "Seats flown (d)",
+        "200,878,967",
+        "193,167,695",
+        "184,955,094",
+        "179,733,055",
+        "183,563,527"
+      ],
+      [
+        "Operating Data:",
+        "Seats per trip (e)",
+        "149.03",
+        "147.33",
+        "145.94",
+        "143.16",
+        "139.83"
+      ],
+      [
+        "Operating Data:",
+        "Average passenger fare (j)",
+        "$146.95",
+        "$149.09",
+        "$154.85",
+        "$159.80",
+        "$154.72"
+      ],
+      [
+        "Operating Data:",
+        "Passenger revenue yield per RPM (cents) (f)(j)",
+        "14.83",
+        "14.90",
+        "15.57",
+        "16.34",
+        "16.02"
+      ],
+      [
+        "Operating Data:",
+        "Operating revenue per ASM (cents) (g)",
+        "13.76",
+        "13.75",
+        "13.98",
+        "14.20",
+        "13.58"
+      ],
+      [
+        "Operating Data:",
+        "Passenger revenue per ASM (cents) (h)(j)",
+        "12.44",
+        "12.52",
+        "13.02",
+        "13.48",
+        "12.83"
+      ],
+      [
+        "Operating Data:",
+        "Operating expenses per ASM (cents) (i)",
+        "11.48",
+        "11.22",
+        "11.18",
+        "12.50",
+        "12.60"
+      ],
+      [
+        "Operating Data:",
+        "Operating expenses per ASM, excluding fuel (cents)",
+        "8.92",
+        "8.76",
+        "8.60",
+        "8.46",
+        "8.18"
+      ],
+      [
+        "Operating Data:",
+        "Operating expenses per ASM, excluding fuel and profitsharing (cents)",
+        "8.56",
+        "8.37",
+        "8.16",
+        "8.19",
+        "8.01"
+      ],
+      [
+        "Operating Data:",
+        "Fuel costs per gallon, including fuel tax",
+        "$1.92",
+        "$1.82",
+        "$1.90",
+        "$2.93",
+        "$3.16"
+      ],
+      [
+        "Operating Data:",
+        "Fuel costs per gallon, including fuel tax, economic",
+        "$2.00",
+        "$1.92",
+        "$2.07",
+        "$2.92",
+        "$3.12"
+      ],
+      [
+        "Operating Data:",
+        "Fuel consumed, in gallons (millions)",
+        "2,045",
+        "1,996",
+        "1,901",
+        "1,801",
+        "1,818"
+      ],
+      [
+        "Operating Data:",
+        "Active fulltime equivalent Employees",
+        "56,110",
+        "53,536",
+        "49,583",
+        "46,278",
+        "44,381"
+      ],
+      [
+        "Operating Data:",
+        "Aircraft at end of period",
+        "706",
+        "723",
+        "704",
+        "665",
+        "681"
+      ]
+    ]
+  }
+]
